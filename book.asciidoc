@@ -3,7 +3,7 @@ John Milton
 
 
 == Book I.
-
+[verse]
 Of Mans First Disobedience, and the Fruit
 Of that Forbidden Tree, whose mortal tast
 Brought Death into the World, and all our woe,
@@ -31,6 +31,7 @@ That to the highth of this great Argument
 I may assert th' Eternal Providence,
 And justifie the wayes of God to men.
 
+[verse]
 Say first, for Heav'n hides nothing from thy view
 Nor the deep Tract of Hell, say first what cause
 Mov'd our Grand Parents in that happy State,
@@ -89,6 +90,7 @@ BEELZEBUB.  To whom th' Arch-Enemy,
 And thence in Heav'n call'd Satan, with bold words
 Breaking the horrid silence thus began.
 
+[verse]
 If thou beest he; But O how fall'n! how chang'd
 From him, who in the happy Realms of Light
 Cloth'd with transcendent brightnes didst outshine
@@ -131,10 +133,12 @@ Irreconcileable, to our grand Foe,
 Who now triumphs, and in th' excess of joy
 Sole reigning holds the Tyranny of Heav'n.
 
+[verse]
 So spake th' Apostate Angel, though in pain,
 Vaunting aloud, but rackt with deep despare:
 And him thus answer'd soon his bold Compeer.
 
+[verse]
 O Prince, O Chief of many Throned Powers,
 That led th' imbattelld Seraphim to Warr
 Under thy conduct, and in dreadful deeds
@@ -165,6 +169,7 @@ Strength undiminisht, or eternal being
 To undergo eternal punishment?
 Whereto with speedy words th' Arch-fiend reply'd.
 
+[verse]
 Fall'n Cherube, to be weak is miserable
 Doing or Suffering: but of this be sure,
 To do ought good never will be our task,
@@ -201,6 +206,7 @@ How overcome this dire Calamity,
 What reinforcement we may gain from Hope,
 If not what resolution from despare.
 
+[verse]
 Thus Satan talking to his neerest Mate
 With Head up-lift above the wave, and Eyes
 That sparkling blaz'd, his other Parts besides
@@ -252,6 +258,7 @@ Both glorying to have scap't the STYGIAN flood
 As Gods, and by their own recover'd strength,
 Not by the sufferance of supernal Power.
 
+[verse]
 Is this the Region, this the Soil, the Clime,
 Said then the lost Arch Angel, this the seat
 That we must change for Heav'n, this mournful gloom
@@ -282,6 +289,7 @@ In this unhappy Mansion, or once more
 With rallied Arms to try what may be yet
 Regaind in Heav'n, or what more lost in Hell?
 
+[verse]
 So SATAN spake, and him BEELZEBUB
 Thus answer'd.  Leader of those Armies bright,
 Which but th' Omnipotent none could have foyld,
@@ -295,6 +303,7 @@ Groveling and prostrate on yon Lake of Fire,
 As we erewhile, astounded and amaz'd,
 No wonder, fall'n such a pernicious highth.
 
+[verse]
 He scarce had ceas't when the superiour Fiend
 Was moving toward the shore; his ponderous shield
 Ethereal temper, massy, large and round,
@@ -344,6 +353,7 @@ Thus drooping, or with linked Thunderbolts
 Transfix us to the bottom of this Gulfe.
 Awake, arise, or be for ever fall'n.
 
+[verse]
 They heard, and were abasht, and up they sprung
 Upon the wing, as when men wont to watch
 On duty, sleeping found by whom they dread,
@@ -636,6 +646,7 @@ Thrice he assayd, and thrice in spite of scorn,
 Tears such as Angels weep, burst forth: at last
 Words interwove with sighs found out their way.
 
+[verse]
 O Myriads of immortal Spirits, O Powers
 Matchless, but with th' Almighty, and that strife
 Was not inglorious, though th' event was dire,
@@ -678,6 +689,7 @@ Full Counsel must mature: Peace is despaird,
 For who can think Submission?  Warr then, Warr
 Open or understood must be resolv'd.
 
+[verse]
 He spake: and to confirm his words, out-flew
 Millions of flaming swords, drawn from the thighs
 Of mighty Cherubim; the sudden blaze
@@ -686,6 +698,7 @@ Against the Highest, and fierce with grasped arm's
 Clash'd on their sounding shields the din of war,
 Hurling defiance toward the vault of Heav'n.
 
+[verse]
 There stood a Hill not far whose griesly top
 Belch'd fire and rowling smoak; the rest entire
 Shon with a glossie scurff, undoubted sign
@@ -816,10 +829,12 @@ A thousand Demy-Gods on golden seat's,
 Frequent and full.  After short silence then
 And summons read, the great consult began.
 
+[verse]
 The End of the First Book.
 
 == Book II.
 
+[verse]
 High on a Throne of Royal State, which far
 Outshon the wealth of ORMUS and of IND,
 Or where the gorgeous East with richest hand
@@ -831,6 +846,7 @@ Beyond thus high, insatiate to pursue
 Vain Warr with Heav'n, and by success untaught
 His proud imaginations thus displaid.
 
+[verse]
 Powers and Dominions, Deities of Heav'n,
 For since no deep within her gulf can hold
 Immortal vigor, though opprest and fall'n,
@@ -864,6 +880,7 @@ Could have assur'd us; and by what best way,
 Whether of open Warr or covert guile,
 We now debate; who can advise, may speak.
 
+[verse]
 He ceas'd, and next him MOLOC, Scepter'd King
 Stood up, the strongest and the fiercest Spirit
 That fought in Heav'n; now fiercer by despair:
@@ -873,6 +890,7 @@ Car'd not to be at all; with that care lost
 Went all his fear: of God, or Hell, or worse
 He reckd not, and these words thereafter spake.
 
+[verse]
 My sentence is for open Warr: Of Wiles,
 More unexpert, I boast not: them let those
 Contrive who need, or when they need, not now.
@@ -929,6 +947,7 @@ And with perpetual inrodes to Allarme,
 Though inaccessible, his fatal Throne:
 Which if not Victory is yet Revenge.
 
+[verse]
 He ended frowning, and his look denounc'd
 Desperate revenge, and Battel dangerous
 To less then Gods.  On th' other side up rose
@@ -943,6 +962,7 @@ To vice industrious, but to Nobler deeds
 Timorous and slothful: yet he pleas'd the eare,
 And with perswasive accent thus began.
 
+[verse]
 I should be much for open Warr, O Peers,
 As not behind in hate; if what was urg'd
 Main reason to perswade immediate Warr,
@@ -1051,10 +1071,12 @@ Worth waiting, since our present lot appeers
 For happy though but ill, for ill not worst,
 If we procure not to our selves more woe.
 
+[verse]
 Thus BELIAL with words cloath'd in reasons garb
 Counsel'd ignoble ease, and peaceful sloath,
 Not peace: and after him thus MAMMON spake.
 
+[verse]
 Either to disinthrone the King of Heav'n
 We warr, if warr be best, or to regain
 Our own right lost: him to unthrone we then
@@ -1111,6 +1133,7 @@ Compose our present evils, with regard
 Of what we are and where, dismissing quite
 All thoughts of Warr: ye have what I advise.
 
+[verse]
 He scarce had finisht, when such murmur filld
 Th' Assembly, as when hollow Rocks retain
 The sound of blustring winds, which all night long
@@ -1138,6 +1161,7 @@ The weight of mightiest Monarchies; his look
 Drew audience and attention still as Night
 Or Summers Noon-tide air, while thus he spake.
 
+[verse]
 Thrones and imperial Powers, off-spring of heav'n,
 Ethereal Vertues; or these Titles now
 Must we renounce, and changing stile be call'd
@@ -1219,6 +1243,7 @@ Pleas'd highly those infernal States, and joy
 Sparkl'd in all thir eyes; with full assent
 They vote: whereat his speech he thus renews.
 
+[verse]
 Well have ye judg'd, well ended long debate,
 Synod of Gods, and like to what ye are,
 Great things resolv'd; which from the lowest deep
@@ -1247,6 +1272,7 @@ All circumspection, and we now no less
 Choice in our suffrage; for on whom we send,
 The weight of all and our last hope relies.
 
+[verse]
 This said, he sat; and expectation held
 His look suspence, awaiting who appeer'd
 To second, or oppose, or undertake
@@ -1261,6 +1287,7 @@ SATAN, whom now transcendent glory rais'd
 Above his fellows, with Monarchal pride
 Conscious of highest worth, unmov'd thus spake.
 
+[verse]
 O Progeny of Heav'n, Empyreal Thrones,
 With reason hath deep silence and demurr
 Seis'd us, though undismaid: long is the way
@@ -1338,6 +1365,7 @@ As if (which might induce us to accord)
 Man had not hellish foes anow besides,
 That day and night for his destruction waite.
 
+[verse]
 The STYGIAN Councel thus dissolv'd; and forth
 In order came the grand infernal Peers,
 Midst came thir mighty Paramount, and seemd
@@ -1462,6 +1490,7 @@ Abominable, inutterable, and worse
 Then Fables yet have feign'd, or fear conceiv'd,
 GORGONS and HYDRA'S, and CHIMERA'S dire.
 
+[verse]
 Mean while the Adversary of God and Man,
 SATAN with thoughts inflam'd of highest design,
 Puts on swift wings, and toward the Gates of Hell
@@ -1515,6 +1544,7 @@ Admir'd, not fear'd; God and his Son except,
 Created thing naught vallu'd he nor shun'd;
 And with disdainful look thus first began.
 
+[verse]
 Whence and what art thou, execrable shape,
 That dar'st, though grim and terrible, advance
 Thy miscreated Front athwart my way
@@ -1523,6 +1553,7 @@ That be assur'd, without leave askt of thee:
 Retire, or taste thy folly, and learn by proof,
 Hell-born, not to contend with Spirits of Heav'n.
 
+[verse]
 To whom the Goblin full of wrauth reply'd,
 Art thou that Traitor Angel, art thou hee,
 Who first broke peace in Heav'n and Faith, till then
@@ -1540,6 +1571,7 @@ Least with a whip of Scorpions I pursue
 Thy lingring, or with one stroke of this Dart
 Strange horror seise thee, and pangs unfelt before.
 
+[verse]
 So spake the grieslie terrour, and in shape,
 So speaking and so threatning, grew ten fold
 More dreadful and deform: on th' other side
@@ -1564,6 +1596,7 @@ Had not the Snakie Sorceress that sat
 Fast by Hell Gate, and kept the fatal Key,
 Ris'n, and with hideous outcry rush'd between.
 
+[verse]
 O Father, what intends thy hand, she cry'd,
 Against thy only Son?  What fury O Son,
 Possesses thee to bend that mortal Dart
@@ -1573,9 +1606,11 @@ At thee ordain'd his drudge, to execute
 What e're his wrath, which he calls Justice, bids,
 His wrath which one day will destroy ye both.
 
+[verse]
 She spake, and at her words the hellish Pest
 Forbore, then these to her SATAN return'd:
 
+[verse]
 So strange thy outcry, and thy words so strange
 Thou interposest, that my sudden hand
 Prevented spares to tell thee yet by deeds
@@ -1586,6 +1621,7 @@ Me Father, and that Fantasm call'st my Son?
 I know thee not, nor ever saw till now
 Sight more detestable then him and thee.
 
+[verse]
 T' whom thus the Portress of Hell Gate reply'd;
 Hast thou forgot me then, and do I seem
 Now in thine eye so foul, once deemd so fair
@@ -1656,6 +1692,7 @@ To be invulnerable in those bright Arms,
 Though temper'd heav'nly, for that mortal dint,
 Save he who reigns above, none can resist.
 
+[verse]
 She finish'd, and the suttle Fiend his lore
 Soon learnd, now milder, and thus answerd smooth.
 Dear Daughter, since thou claim'st me for thy Sire,
@@ -1692,6 +1729,7 @@ His famine should be fill'd, and blest his mawe
 Destin'd to that good hour: no less rejoyc'd
 His mother bad, and thus bespake her Sire.
 
+[verse]
 The key of this infernal Pit by due,
 And by command of Heav'ns all-powerful King
 I keep, by him forbidden to unlock
@@ -1714,6 +1752,7 @@ The Gods who live at ease, where I shall Reign
 At thy right hand voluptuous, as beseems
 Thy daughter and thy darling, without end.
 
+[verse]
 Thus saying, from her side the fatal Key,
 Sad instrument of all our woe, she took;
 And towards the Gate rouling her bestial train,
@@ -1812,6 +1851,7 @@ Of DEMOGORGON; Rumor next and Chance,
 And Tumult and Confusion all imbroild,
 And Discord with a thousand various mouths.
 
+[verse]
 T' whom SATAN turning boldly, thus.  Ye Powers
 And Spirits of this nethermost Abyss,
 CHAOS and ANCIENT NIGHT, I come no Spie,
@@ -1833,6 +1873,7 @@ To her original darkness and your sway
 Erect the Standerd there of ANCIENT NIGHT;
 Yours be th' advantage all, mine the revenge.
 
+[verse]
 Thus SATAN; and him thus the Anarch old
 With faultring speech and visage incompos'd
 Answer'd.  I know thee, stranger, who thou art,
@@ -1856,6 +1897,7 @@ If that way be your walk, you have not farr;
 So much the neerer danger; goe and speed;
 Havock and spoil and ruin are my gain.
 
+[verse]
 He ceas'd; and SATAN staid not to reply,
 But glad that now his Sea should find a shore,
 With fresh alacritie and force renew'd
@@ -1903,10 +1945,11 @@ Of smallest Magnitude close by the Moon.
 Thither full fraught with mischievous revenge,
 Accurst, and in a cursed hour he hies.
 
+[verse]
 The End of the Second Book.
 
 == Book III.
-
+[verse]
 Hail holy light, ofspring of Heav'n first-born,
 Or of th' Eternal Coeternal beam
 May I express thee unblam'd? since God is light,
@@ -1963,6 +2006,7 @@ Irradiate, there plant eyes, all mist from thence
 Purge and disperse, that I may see and tell
 Of things invisible to mortal sight.
 
+[verse]
 Now had the Almighty Father from above,
 From the pure Empyrean where he sits
 High Thron'd above all highth, bent down his eye,
@@ -1988,6 +2032,7 @@ Him God beholding from his prospect high,
 Wherein past, present, future he beholds,
 Thus to his onely Son foreseeing spake.
 
+[verse]
 Onely begotten Son, seest thou what rage
 Transports our adversarie, whom no bounds
 Prescrib'd, no barrs of Hell, nor all the chains
@@ -2044,6 +2089,7 @@ The other none: in Mercy and Justice both,
 Through Heav'n and Earth, so shall my glorie excel,
 But Mercy first and last shall brightest shine.
 
+[verse]
 Thus while God spake, ambrosial fragrance fill'd
 All Heav'n, and in the blessed Spirits elect
 Sense of new joy ineffable diffus'd:
@@ -2054,6 +2100,7 @@ Divine compassion visibly appeerd,
 Love without end, and without measure Grace,
 Which uttering thus he to his Father spake.
 
+[verse]
 O Father, gracious was that word which clos'd
 Thy sovran sentence, that Man should find grace;
 For which both Heav'n and Earth shall high extoll
@@ -2078,6 +2125,7 @@ For him, what for thy glorie thou hast made?
 So should thy goodness and thy greatness both
 Be questiond and blaspheam'd without defence.
 
+[verse]
 To whom the great Creatour thus reply'd.
 O Son, in whom my Soul hath chief delight,
 Son of my bosom, Son who art alone
@@ -2129,6 +2177,7 @@ Which of ye will be mortal to redeem
 Mans mortal crime, and just th' unjust to save,
 Dwels in all Heaven charitie so deare?
 
+[verse]
 He ask'd, but all the Heav'nly Quire stood mute,
 And silence was in Heav'n: on mans behalf
 Patron or Intercessor none appeerd,
@@ -2140,6 +2189,7 @@ By doom severe, had not the Son of God,
 In whom the fulness dwels of love divine,
 His dearest mediation thus renewd.
 
+[verse]
 Father, thy word is past, man shall find grace;
 And shall grace not find means, that finds her way,
 The speediest of thy winged messengers,
@@ -2180,6 +2230,7 @@ Of anger shall remain, but peace assur'd,
 And reconcilement; wrauth shall be no more
 Thenceforth, but in thy presence Joy entire.
 
+[verse]
 His words here ended, but his meek aspect
 Silent yet spake, and breath'd immortal love
 To mortal men, above which only shon
@@ -2189,6 +2240,7 @@ Of his great Father.  Admiration seis'd
 All Heav'n, what this might mean, & whither tend
 Wondring; but soon th' Almighty thus reply'd:
 
+[verse]
 O thou in Heav'n and Earth the only peace
 Found out for mankind under wrauth, O thou
 My sole complacence! well thou know'st how dear,
@@ -2260,6 +2312,7 @@ God shall be All in All.  But all ye Gods,
 Adore him, who to compass all this dies,
 Adore the Son, and honour him as mee.
 
+[verse]
 No sooner had th' Almighty ceas't, but all
 The multitude of Angels with a shout
 Loud as from numbers without number, sweet
@@ -2289,6 +2342,7 @@ Thir sacred Song, and waken raptures high;
 No voice exempt, no voice but well could joine
 Melodious part, such concord is in Heav'n.
 
+[verse]
 Thee Father first they sung Omnipotent,
 Immutable, Immortal, Infinite,
 Eternal King; thee Author of all being,
@@ -2334,6 +2388,7 @@ Shall be the copious matter of my Song
 Henceforth, and never shall my Harp thy praise
 Forget, nor from thy Fathers praise disjoine.
 
+[verse]
 Thus they in Heav'n, above the starry Sphear,
 Thir happie hours in joy and hymning spent.
 Mean while upon the firm opacous Globe
@@ -2573,6 +2628,7 @@ That run through all the Heav'ns, or down to th' Earth
 Bear his swift errands over moist and dry,
 O're Sea and Land: him SATAN thus accostes;
 
+[verse]
 URIEL, for thou of those seav'n Spirits that stand
 In sight of God's high Throne, gloriously bright,
 The first art wont his great authentic will
@@ -2601,6 +2657,7 @@ To deepest Hell, and to repair that loss
 Created this new happie Race of Men
 To serve him better: wise are all his wayes.
 
+[verse]
 So spake the false dissembler unperceivd;
 For neither Man nor Angel can discern
 Hypocrisie, the only evil that walks
@@ -2657,6 +2714,7 @@ That spot to which I point is PARADISE,
 ADAMS abode, those loftie shades his Bowre.
 Thy way thou canst not miss, me mine requires.
 
+[verse]
 Thus said, he turnd, and SATAN bowing low,
 As to superior Spirits is wont in Heaven,
 Where honour due and reverence none neglects,
@@ -2665,10 +2723,12 @@ Down from th' Ecliptic, sped with hop'd success,
 Throws his steep flight with many an Aerie wheele,
 Nor staid, till on NIPHATES top he lights.
 
+[verse]
 The End of the Third Book. 
 
 == Book IV. 
 
+[verse]
 O For that warning voice, which he who saw
 Th' APOCALYPS, heard cry in Heaven aloud,
 Then when the Dragon, put to second rout,
@@ -2701,6 +2761,7 @@ Sometimes towards Heav'n and the full-blazing Sun,
 Which now sat high in his Meridian Towre:
 Then much revolving, thus in sighs began.
 
+[verse]
 O thou that with surpassing Glory crownd,
 Look'st from thy sole Dominion like the God
 Of this new World; at whose sight all the Starrs
@@ -2784,6 +2845,7 @@ Divided Empire with Heav'ns King I hold
 By thee, and more then half perhaps will reigne;
 As Man ere long, and this new World shall know.
 
+[verse]
 Thus while he spake, each passion dimm'd his face
 Thrice chang'd with pale, ire, envie and despair,
 Which marrd his borrow'd visage, and betraid
@@ -2843,6 +2905,7 @@ That drove him, though enamourd, from the Spouse
 Of TOBITS Son, and with a vengeance sent
 From MEDIA post to AEGYPT, there fast bound.
 
+[verse]
 Now to th' ascent of that steep savage Hill
 SATAN had journied on, pensive and slow;
 But further way found none, so thick entwin'd,
@@ -3030,6 +3093,7 @@ Of Heav'n the Starrs that usher Evening rose:
 When SATAN still in gaze, as first he stood,
 Scarce thus at length faild speech recoverd sad.
 
+[verse]
 O Hell! what doe mine eyes with grief behold,
 Into our room of bliss thus high advanc't
 Creatures of other mould, earth-born perhaps,
@@ -3066,6 +3130,7 @@ Honour and Empire with revenge enlarg'd,
 By conquering this new World, compels me now
 To do what else though damnd I should abhorre.
 
+[verse]
 So spake the Fiend, and with necessitie,
 The Tyrants plea, excus'd his devilish deeds.
 Then from his loftie stand on that high Tree
@@ -3085,6 +3150,7 @@ Grip't in each paw: when ADAM first of men
 To first of women EVE thus moving speech,
 Turnd him all eare to heare new utterance flow.
 
+[verse]
 Sole partner and sole part of all these joyes,
 Dearer thy self then all; needs must the Power
 That made us, and for us this ample World
@@ -3115,6 +3181,7 @@ His bountie, following our delightful task
 To prune these growing Plants, & tend these Flours,
 Which were it toilsom, yet with thee were sweet.
 
+[verse]
 To whom thus Eve repli'd.  O thou for whom
 And from whom I was formd flesh of thy flesh,
 And without whom am to no end, my Guide
@@ -3168,6 +3235,7 @@ Seisd mine, I yeilded, and from that time see
 How beauty is excelld by manly grace
 And wisdom, which alone is truly fair.
 
+[verse]
 So spake our general Mother, and with eyes
 Of conjugal attraction unreprov'd,
 And meek surrender, half imbracing leand
@@ -3182,6 +3250,7 @@ With kisses pure: aside the Devil turnd
 For envie, yet with jealous leer maligne
 Ey'd them askance, and to himself thus plaind.
 
+[verse]
 Sight hateful, sight tormenting! thus these two
 Imparadis't in one anothers arms
 The happier EDEN, shall enjoy thir fill
@@ -3214,6 +3283,7 @@ What further would be learnt.  Live while ye may,
 Yet happie pair; enjoy, till I return,
 Short pleasures, for long woes are to succeed.
 
+[verse]
 So saying, his proud step he scornful turn'd,
 But with sly circumspection, and began
 Through wood, through waste, o're hil, o're dale his roam.
@@ -3240,6 +3310,7 @@ Impress the Air, and shews the Mariner
 From what point of his Compass to beware
 Impetuous winds: he thus began in haste.
 
+[verse]
 GABRIEL, to thee thy cours by Lot hath giv'n
 Charge and strict watch that to this happie place
 No evil thing approach or enter in;
@@ -3256,6 +3327,7 @@ Lost sight of him; one of the banisht crew
 I fear, hath ventur'd from the deep, to raise
 New troubles; him thy care must be to find.
 
+[verse]
 To whom the winged Warriour thus returnd:
 URIEL, no wonder if thy perfet sight,
 Amid the Suns bright circle where thou sitst,
@@ -3270,6 +3342,7 @@ But if within the circuit of these walks
 In whatsoever shape he lurk, of whom
 Thou telst, by morrow dawning I shall know.
 
+[verse]
 So promis'd hee, and URIEL to his charge
 Returnd on that bright beam, whose point now raisd
 Bore him slope downward to the Sun now fall'n
@@ -3292,6 +3365,7 @@ Rising in clouded Majestie, at length
 Apparent Queen unvaild her peerless light,
 And o're the dark her Silver Mantle threw.
 
+[verse]
 When ADAM thus to EVE: Fair Consort, th' hour
 Of night, and all things now retir'd to rest
 Mind us of like repose, since God hath set
@@ -3317,6 +3391,7 @@ That lie bestrowne unsightly and unsmooth,
 Ask riddance, if we mean to tread with ease;
 Mean while, as Nature wills, Night bids us rest.
 
+[verse]
 To whom thus EVE with perfet beauty adornd.
 My Author and Disposer, what thou bidst
 Unargu'd I obey; so God ordains,
@@ -3343,6 +3418,7 @@ Or glittering Starr-light without thee is sweet.
 But wherfore all night long shine these, for whom
 This glorious sight, when sleep hath shut all eyes?
 
+[verse]
 To whom our general Ancestor repli'd.
 Daughter of God and Man, accomplisht EVE,
 Those have thir course to finish, round the Earth,
@@ -3374,6 +3450,7 @@ With Heav'nly touch of instrumental sounds
 In full harmonic number joind, thir songs
 Divide the night, and lift our thoughts to Heaven.
 
+[verse]
 Thus talking hand in hand alone they pass'd
 On to thir blissful Bower; it was a place
 Chos'n by the sovran Planter, when he fram'd
@@ -3406,6 +3483,7 @@ Of JAPHET brought by HERMES, she ensnar'd
 Mankind with her faire looks, to be aveng'd
 On him who had stole JOVES authentic fire.
 
+[verse]
 Thus at thir shadie Lodge arriv'd, both stood,
 Both turnd, and under op'n Skie ador'd
 The God that made both Skie, Air, Earth & Heav'n
@@ -3423,6 +3501,7 @@ To fill the Earth, who shall with us extoll
 Thy goodness infinite, both when we wake,
 And when we seek, as now, thy gift of sleep.
 
+[verse]
 This said unanimous, and other Rites
 Observing none, but adoration pure
 Which God likes best, into thir inmost bower
@@ -3464,6 +3543,7 @@ Showrd Roses, which the Morn repair'd.  Sleep on,
 Blest pair; and O yet happiest if ye seek
 No happier state, and know to know no more.
 
+[verse]
 Now had night measur'd with her shaddowie Cone
 Half way up Hill this vast Sublunar Vault,
 And from thir Ivorie Port the Cherubim
@@ -3471,6 +3551,7 @@ Forth issuing at th' accustomd hour stood armd
 To thir night watches in warlike Parade,
 When GABRIEL to his next in power thus spake.
 
+[verse]
 UZZIEL, half these draw off, and coast the South
 With strictest watch; these other wheel the North,
 Our circuit meets full West.  As flame they part
@@ -3478,6 +3559,7 @@ Half wheeling to the Shield, half to the Spear.
 From these, two strong and suttle Spirits he calld
 That neer him stood, and gave them thus in charge.
 
+[verse]
 ITHURIEL and ZEPHON, with wingd speed
 Search through this Garden, leav unsearcht no nook,
 But chiefly where those two fair Creatures Lodge,
@@ -3488,6 +3570,7 @@ Hitherward bent (who could have thought?) escap'd
 The barrs of Hell, on errand bad no doubt:
 Such where ye find, seise fast, and hither bring.
 
+[verse]
 So saying, on he led his radiant Files,
 Daz'ling the Moon; these to the Bower direct
 In search of whom they sought: him there they found
@@ -3515,11 +3598,13 @@ Back stept those two fair Angels half amaz'd
 So sudden to behold the grieslie King;
 Yet thus, unmovd with fear, accost him soon.
 
+[verse]
 Which of those rebell Spirits adjudg'd to Hell
 Com'st thou, escap'd thy prison, and transform'd,
 Why satst thou like an enemie in waite
 Here watching at the head of these that sleep?
 
+[verse]
 Know ye not then said SATAN, filld with scorn,
 Know ye not me? ye knew me once no mate
 For you, there sitting where ye durst not soare;
@@ -3538,6 +3623,7 @@ But come, for thou, be sure, shalt give account
 To him who sent us, whose charge is to keep
 This place inviolable, and these from harm.
 
+[verse]
 So spake the Cherube, and his grave rebuke
 Severe in youthful beautie, added grace
 Invincible: abasht the Devil stood,
@@ -3552,6 +3638,7 @@ Or less be lost.  Thy fear, said ZEPHON bold,
 Will save us trial what the least can doe
 Single against thee wicked, and thence weak.
 
+[verse]
 The Fiend repli'd not, overcome with rage;
 But like a proud Steed reind, went hautie on,
 Chaumping his iron curb: to strive or flie
@@ -3562,6 +3649,7 @@ Just met, & closing stood in squadron joind
 Awaiting next command.  To whom thir Chief
 GABRIEL from the Front thus calld aloud.
 
+[verse]
 O friends, I hear the tread of nimble feet
 Hasting this way, and now by glimps discerne
 ITHURIEL and ZEPHON through the shade,
@@ -3571,10 +3659,12 @@ And fierce demeanour seems the Prince of Hell,
 Not likely to part hence without contest;
 Stand firm, for in his look defiance lours.
 
+[verse]
 He scarce had ended, when those two approachd
 And brief related whom they brought, wher found,
 How busied, in what form and posture coucht.
 
+[verse]
 To whom with stern regard thus GABRIEL spake.
 Why hast thou, SATAN, broke the bounds prescrib'd
 To thy transgressions, and disturbd the charge
@@ -3584,6 +3674,7 @@ To question thy bold entrance on this place;
 Imploi'd it seems to violate sleep, and those
 Whose dwelling God hath planted here in bliss?
 
+[verse]
 To whom thus SATAN with contemptuous brow.
 GABRIEL, thou hadst in Heav'n th' esteem of wise,
 And such I held thee; but this question askt
@@ -3602,6 +3693,7 @@ In that dark durance: thus much what was askt.
 The rest is true, they found me where they say;
 But that implies not violence or harme.
 
+[verse]
 Thus hee in scorn.  The warlike Angel mov'd,
 Disdainfully half smiling thus repli'd.
 O loss of one in Heav'n to judge of wise,
@@ -3625,6 +3717,7 @@ The first in flight from pain, had'st thou alleg'd
 To thy deserted host this cause of flight,
 Thou surely hadst not come sole fugitive.
 
+[verse]
 To which the Fiend thus answerd frowning stern.
 Not that I less endure, or shrink from pain,
 Insulting Angel, well thou knowst I stood
@@ -3648,6 +3741,7 @@ Whose easier business were to serve thir Lord
 High up in Heav'n, with songs to hymne his Throne,
 And practis'd distances to cringe, not fight.
 
+[verse]
 To whom the warriour Angel soon repli'd.
 To say and strait unsay, pretending first
 Wise to flie pain, professing next the Spie,
@@ -3671,9 +3765,11 @@ Back to th' infernal pit I drag thee chaind,
 And Seale thee so, as henceforth not to scorne
 The facil gates of hell too slightly barrd.
 
+[verse]
 So threatn'd hee, but SATAN to no threats
 Gave heed, but waxing more in rage repli'd.
 
+[verse]
 Then when I am thy captive talk of chaines,
 Proud limitarie Cherube, but ere then
 Farr heavier load thy self expect to feel
@@ -3682,6 +3778,7 @@ Ride on thy wings, and thou with thy Compeers,
 Us'd to the yoak, draw'st his triumphant wheels
 In progress through the rode of Heav'n Star-pav'd.
 
+[verse]
 While thus he spake, th' Angelic Squadron bright
 Turnd fierie red, sharpning in mooned hornes
 Thir Phalanx, and began to hemm him round
@@ -3712,6 +3809,7 @@ The sequel each of parting and of fight;
 The latter quick up flew, and kickt the beam;
 Which GABRIEL spying, thus bespake the Fiend.
 
+[verse]
 SATAN, I know thy strength, and thou knowst mine,
 Neither our own but giv'n; what follie then
 To boast what Arms can doe, since thine no more
@@ -3723,10 +3821,12 @@ If thou resist.  The Fiend lookt up and knew
 His mounted scale aloft: nor more; but fled
 Murmuring, and with him fled the shades of night.
 
+[verse]
 The End of the Fourth Book.
 
 == Book V.
 
+[verse]
 Now Morn her rosie steps in th' Eastern Clime
 Advancing, sow'd the Earth with Orient Pearle,
 When ADAM wak't, so customd, for his sleep
@@ -3753,9 +3853,11 @@ What drops the Myrrhe, & what the balmie Reed,
 How Nature paints her colours, how the Bee
 Sits on the Bloom extracting liquid sweet.
 
+[verse]
 Such whispering wak'd her, but with startl'd eye
 On ADAM, whom imbracing, thus she spake.
 
+[verse]
 O Sole in whom my thoughts find all repose,
 My Glorie, my Perfection, glad I see
 Thy face, and Morn return'd, for I this Night,
@@ -3824,6 +3926,7 @@ And fell asleep; but O how glad I wak'd
 To find this but a dream!  Thus EVE her Night
 Related, and thus ADAM answerd sad.
 
+[verse]
 Best Image of my self and dearer half,
 The trouble of thy thoughts this night in sleep
 Affects me equally; nor can I like
@@ -3859,6 +3962,7 @@ Among the Groves, the Fountains, and the Flours
 That open now thir choicest bosom'd smells
 Reservd from night, and kept for thee in store.
 
+[verse]
 So cheard he his fair Spouse, and she was cheard,
 But silently a gentle tear let fall
 From either eye, and wip'd them with her haire;
@@ -3867,6 +3971,7 @@ Each in thir chrystal sluce, hee ere they fell
 Kiss'd as the gracious signs of sweet remorse
 And pious awe, that feard to have offended.
 
+[verse]
 So all was cleard, and to the Field they haste.
 But first from under shadie arborous roof,
 Soon as they forth were come to open sight
@@ -3885,6 +3990,7 @@ Flowd from thir lips, in Prose or numerous Verse,
 More tuneable then needed Lute or Harp
 To add more sweetness, and they thus began.
 
+[verse]
 These are thy glorious works, Parent of good,
 Almightie, thine this universal Frame,
 Thus wondrous fair; thy self how wondrous then!
@@ -3942,6 +4048,7 @@ To give us onely good; and if the night
 Have gathered aught of evil or conceald,
 Disperse it, as now light dispels the dark.
 
+[verse]
 So pray'd they innocent, and to thir thoughts
 Firm peace recoverd soon and wonted calm.
 On to thir mornings rural work they haste
@@ -3958,6 +4065,7 @@ RAPHAEL, the sociable Spirit, that deign'd
 To travel with TOBIAS, and secur'd
 His marriage with the seaventimes-wedded Maid.
 
+[verse]
 RAPHAEL, said hee, thou hear'st what stir on Earth
 SATAN from Hell scap't through the darksom Gulf
 Hath raisd in Paradise, and how disturbd
@@ -3981,6 +4089,7 @@ But by deceit and lies; this let him know,
 Least wilfully transgressing he pretend
 Surprisal, unadmonisht, unforewarnd.
 
+[verse]
 So spake th' Eternal Father, and fulfilld
 All Justice: nor delaid the winged Saint
 After his charge receivd, but from among
@@ -4044,6 +4153,7 @@ True appetite, and not disrelish thirst
 Of nectarous draughts between, from milkie stream,
 Berrie or Grape: to whom thus ADAM call'd.
 
+[verse]
 Haste hither EVE, and worth thy sight behold
 Eastward among those Trees, what glorious shape
 Comes this way moving; seems another Morn
@@ -4058,6 +4168,7 @@ From large bestowd, where Nature multiplies
 Her fertil growth, and by disburd'ning grows
 More fruitful, which instructs us not to spare.
 
+[verse]
 To whom thus EVE. ADAM, earths hallowd mould,
 Of God inspir'd, small store will serve, where store,
 All seasons, ripe for use hangs on the stalk;
@@ -4069,6 +4180,7 @@ To entertain our Angel guest, as hee
 Beholding shall confess that here on Earth
 God hath dispenst his bounties as in Heav'n.
 
+[verse]
 So saying, with dispatchful looks in haste
 She turns, on hospitable thoughts intent
 What choice to chuse for delicacie best,
@@ -4100,6 +4212,7 @@ Neerer his presence ADAM though not awd,
 Yet with submiss approach and reverence meek,
 As to a superior Nature, bowing low,
 
+[verse]
 Thus said.  Native of Heav'n, for other place
 None can then Heav'n such glorious shape contain;
 Since by descending from the Thrones above,
@@ -4111,6 +4224,7 @@ To rest, and what the Garden choicest bears
 To sit and taste, till this meridian heat
 Be over, and the Sun more coole decline.
 
+[verse]
 Whom thus the Angelic Vertue answerd milde.
 ADAM, I therefore came, nor art thou such
 Created, or such place hast here to dwell,
@@ -4129,6 +4243,7 @@ Alterd her cheek.  On whom the Angel HAILE
 Bestowd, the holy salutation us'd
 Long after to blest MARIE, second EVE.
 
+[verse]
 Haile Mother of Mankind, whose fruitful Womb
 Shall fill the World more numerous with thy Sons
 Then with these various fruits the Trees of God
@@ -4146,6 +4261,7 @@ The Earth to yeild; unsavourie food perhaps
 To spiritual Natures; only this I know,
 That one Celestial Father gives to all.
 
+[verse]
 To whom the Angel.  Therefore what he gives
 (Whose praise be ever sung) to man in part
 Spiritual, may of purest Spirits be found
@@ -4194,6 +4310,7 @@ Enamour'd at that sight; but in those hearts
 Love unlibidinous reign'd, nor jealousie
 Was understood, the injur'd Lovers Hell.
 
+[verse]
 Thus when with meats & drinks they had suffic'd,
 Not burd'nd Nature, sudden mind arose
 In ADAM, not to let th' occasion pass
@@ -4205,6 +4322,7 @@ Divine effulgence, whose high Power so far
 Exceeded human, and his wary speech
 Thus to th' Empyreal Minister he fram'd.
 
+[verse]
 Inhabitant with God, now know I well
 Thy favour, in this honour done to man,
 Under whose lowly roof thou hast voutsaf't
@@ -4213,6 +4331,7 @@ Food not of Angels, yet accepted so,
 As that more willingly thou couldst not seem
 At Heav'ns high feasts to have fed: yet what compare?
 
+[verse]
 To whom the winged Hierarch repli'd.
 O ADAM, one Almightie is, from whom
 All things proceed, and up to him return,
@@ -4252,6 +4371,7 @@ Whose progenie you are.  Mean while enjoy
 Your fill what happiness this happie state
 Can comprehend, incapable of more.
 
+[verse]
 To whom the Patriarch of mankind repli'd.
 O favourable spirit, propitious guest,
 Well hast thou taught the way that might direct
@@ -4266,6 +4386,7 @@ Who formd us from the dust, and plac'd us here
 Full to the utmost measure of what bliss
 Human desires can seek or apprehend?
 
+[verse]
 To whom the Angel.  Son of Heav'n and Earth,
 Attend: That thou art happie, owe to God;
 That thou continu'st such, owe to thy self,
@@ -4292,6 +4413,7 @@ And som are fall'n, to disobedience fall'n,
 And so from Heav'n to deepest Hell; O fall
 From what high state of bliss into what woe!
 
+[verse]
 To whom our great Progenitor.  Thy words
 Attentive, and with more delighted eare
 Divine instructer, I have heard, then when
@@ -4310,9 +4432,11 @@ And we have yet large day, for scarce the Sun
 Hath finisht half his journey, and scarce begins
 His other half in the great Zone of Heav'n.
 
+[verse]
 Thus ADAM made request, and RAPHAEL
 After short pause assenting, thus began.
 
+[verse]
 High matter thou injoinst me, O prime of men,
 Sad task and hard, for how shall I relate
 To human sense th' invisible exploits
@@ -4328,6 +4452,7 @@ As may express them best, though what if Earth
 Be but the shaddow of Heav'n, and things therein
 Each to other like, more then on earth is thought?
 
+[verse]
 As yet this world was not, and CHAOS wilde
 Reignd where these Heav'ns now rowl, where Earth now rests
 Upon her Center pois'd, when on a day
@@ -4352,6 +4477,7 @@ By whom in bliss imbosom'd sat the Son,
 Amidst as from a flaming Mount, whoseop
 Brightness had made invisible, thus spake.
 
+[verse]
 Hear all ye Angels, Progenie of Light,
 Thrones, Dominations, Princedoms, Vertues, Powers,
 Hear my Decree, which unrevok't shall stand.
@@ -4369,6 +4495,7 @@ Cast out from God and blessed vision, falls
 Into utter darkness, deep ingulft, his place
 Ordaind without redemption, without end.
 
+[verse]
 So spake th' Omnipotent, and with his words
 All seemd well pleas'd, all seem'd, but were not all.
 That day, as other solem dayes, they spent
@@ -4424,6 +4551,7 @@ Unworshipt, unobey'd the Throne supream
 Contemptuous, and his next subordinate
 Awak'ning, thus to him in secret spake.
 
+[verse]
 Sleepst thou Companion dear, what sleep can close
 Thy eye-lids? and remembrest what Decree
 Of yesterday, so late hath past the lips
@@ -4446,6 +4574,7 @@ The great MESSIAH, and his new commands,
 Who speedily through all the Hierarchies
 Intends to pass triumphant, and give Laws.
 
+[verse]
 So spake the false Arch-Angel, and infus'd
 Bad influence into th' unwarie brest
 Of his Associate; hee together calls,
@@ -4472,6 +4601,7 @@ Among the sons of Morn, what multitudes
 Were banded to oppose his high Decree;
 And smiling to his onely Son thus said.
 
+[verse]
 Son, thou in whom my glory I behold
 In full resplendence, Heir of all my might,
 Neerly it now concernes us to be sure
@@ -4487,6 +4617,7 @@ With speed what force is left, and all imploy
 In our defence, lest unawares we lose
 This our high place, our Sanctuarie, our Hill.
 
+[verse]
 To whom the Son with calm aspect and cleer
 Light'ning Divine, ineffable, serene,
 Made answer.  Mightie Father, thou thy foes
@@ -4498,6 +4629,7 @@ Giv'n me to quell thir pride, and in event
 Know whether I be dextrous to subdue
 Thy Rebels, or be found the worst in Heav'n.
 
+[verse]
 So spake the Son, but SATAN with his Powers
 Farr was advanc't on winged speed, an Host
 Innumerable as the Starrs of Night,
@@ -4528,6 +4660,7 @@ About the great reception of thir King,
 Thither to come, and with calumnious Art
 Of counterfeted truth thus held thir ears.
 
+[verse]
 Thrones, Dominations, Princedomes, Vertues, Powers,
 If these magnific Titles yet remain
 Not meerly titular, since by Decree
@@ -4560,6 +4693,7 @@ And look for adoration to th' abuse
 Of those Imperial Titles which assert
 Our being ordain'd to govern, not to serve?
 
+[verse]
 Thus farr his bold discourse without controule
 Had audience, when among the Seraphim
 ABDIEL, then whom none with more zeale ador'd
@@ -4567,6 +4701,7 @@ The Deitie, and divine commands obei'd,
 Stood up, and in a flame of zeale severe
 The current of his fury thus oppos'd.
 
+[verse]
 O argument blasphemous, false and proud!
 Words which no eare ever to hear in Heav'n
 Expected, least of all from thee, ingrate
@@ -4608,6 +4743,7 @@ And tempt not these; but hast'n to appease
 Th' incensed Father, and th' incensed Son,
 While Pardon may be found in time besought.
 
+[verse]
 So spake the fervent Angel, but his zeale
 None seconded, as out of season judg'd,
 Or singular and rash, whereat rejoic'd
@@ -4632,12 +4768,14 @@ Beseeching or besieging.  This report,
 These tidings carrie to th' anointed King;
 And fly, ere evil intercept thy flight.
 
+[verse]
 He said, and as the sound of waters deep
 Hoarce murmur echo'd to his words applause
 Through the infinite Host, nor less for that
 The flaming Seraph fearless, though alone
 Encompass'd round with foes, thus answerd bold.
 
+[verse]
 O alienate from God, O spirit accurst,
 Forsak'n of all good; I see thy fall
 Determind, and thy hapless crew involv'd
@@ -4658,6 +4796,7 @@ His Thunder on thy head, devouring fire.
 Then who created thee lamenting learne,
 When who can uncreate thee thou shalt know.
 
+[verse]
 So spake the Seraph ABDIEL faithful found,
 Among the faithless, faithful only hee;
 Among innumerable false, unmov'd,
@@ -4671,10 +4810,12 @@ Superior, nor of violence fear'd aught;
 And with retorted scorn his back he turn'd
 On those proud Towrs to swift destruction doom'd.
 
+[verse]
 The End of the Fifth Book. 
 
 == Book VI.
 
+[verse]
 All night the dreadless Angel unpursu'd
 Through Heav'ns wide Champain held his way, till Morn,
 Wak't by the circling Hours, with rosie hand
@@ -4704,6 +4845,7 @@ They led him high applauded, and present
 Before the seat supream; from whence a voice
 From midst a Golden Cloud thus milde was heard.
 
+[verse]
 Servant of God, well done, well hast thou fought
 The better fight, who single hast maintaind
 Against revolted multitudes the Cause
@@ -4732,6 +4874,7 @@ Into thir place of punishment, the Gulf
 Of TARTARUS, which ready opens wide
 His fiery CHAOS to receave thir fall.
 
+[verse]
 So spake the Sovran voice, and Clouds began
 To darken all the Hill, and smoak to rowl
 In duskie wreathes, reluctant flames, the signe
@@ -4791,6 +4934,7 @@ ABDIEL that sight endur'd not, where he stood
 Among the mightiest, bent on highest deeds,
 And thus his own undaunted heart explores.
 
+[verse]
 O Heav'n! that such resemblance of the Highest
 Should yet remain, where faith and realtie
 Remain not; wherfore should not strength & might
@@ -4805,11 +4949,13 @@ Victor; though brutish that contest and foule,
 When Reason hath to deal with force, yet so
 Most reason is that Reason overcome.
 
+[verse]
 So pondering, and from his armed Peers
 Forth stepping opposite, half way he met
 His daring foe, at this prevention more
 Incens't, and thus securely him defi'd.
 
+[verse]
 Proud, art thou met? thy hope was to have reacht
 The highth of thy aspiring unoppos'd,
 The Throne of God unguarded, and his side
@@ -4829,6 +4975,7 @@ Seemd in thy World erroneous to dissent
 From all: my Sect thou seest, now learn too late
 How few somtimes may know, when thousands err.
 
+[verse]
 Whom the grand foe with scornful eye askance
 Thus answerd.  Ill for thee, but in wisht houre
 Of my revenge, first sought for thou returnst
@@ -4852,6 +4999,7 @@ Such hast thou arm'd, the Minstrelsie of Heav'n,
 Servilitie with freedom to contend,
 As both thir deeds compar'd this day shall prove.
 
+[verse]
 To whom in brief thus ABDIEL stern repli'd.
 Apostat, still thou errst, nor end wilt find
 Of erring, from the path of truth remote:
@@ -4871,6 +5019,7 @@ Yet Chains in Hell, not Realms expect: mean while
 From mee returnd, as erst thou saidst, from flight,
 This greeting on thy impious Crest receive.
 
+[verse]
 So saying, a noble stroke he lifted high,
 Which hung not, but so swift with tempest fell
 On the proud Crest of SATAN, that no sight,
@@ -4945,6 +5094,7 @@ Intestine War in Heav'n, the arch foe subdu'd
 Or Captive drag'd in Chains, with hostile frown
 And visage all enflam'd first thus began.
 
+[verse]
 Author of evil, unknown till thy revolt,
 Unnam'd in Heav'n, now plenteous, as thou seest
 These Acts of hateful strife, hateful to all,
@@ -4965,6 +5115,7 @@ Ere this avenging Sword begin thy doome,
 Or som more sudden vengeance wing'd from God
 Precipitate thee with augmented paine.
 
+[verse]
 So spake the Prince of Angels; to whom thus
 The Adversarie.  Nor think thou with wind
 Of airie threats to aw whom yet with deeds
@@ -4981,6 +5132,7 @@ If not to reign: mean while thy utmost force,
 And join him nam'd ALMIGHTIE to thy aid,
 I flie not, but have sought thee farr and nigh.
 
+[verse]
 They ended parle, and both addrest for fight
 Unspeakable; for who, though with the tongue
 Of Angels, can relate, or to what things
@@ -5040,6 +5192,7 @@ All Intellect, all Sense, and as they please,
 They Limb themselves, and colour, shape or size
 Assume, as likes them best, condense or rare.
 
+[verse]
 Mean while in other parts like deeds deservd
 Memorial, where the might of GABRIEL fought,
 And with fierce Ensignes pierc'd the deep array
@@ -5073,6 +5226,7 @@ And ignominie, yet to glorie aspires
 Vain glorious, and through infamie seeks fame:
 Therfore Eternal silence be thir doome.
 
+[verse]
 And now thir mightiest quelld, the battel swerv'd,
 With many an inrode gor'd; deformed rout
 Enter'd, and foul disorder; all the ground
@@ -5094,6 +5248,7 @@ Not to have disobei'd; in fight they stood
 Unwearied, unobnoxious to be pain'd
 By wound, though from thir place by violence mov'd.
 
+[verse]
 Now Night her course began, and over Heav'n
 Inducing darkness, grateful truce impos'd,
 And silence on the odious dinn of Warr:
@@ -5107,6 +5262,7 @@ Far in the dark dislodg'd, and void of rest,
 His Potentates to Councel call'd by night;
 And in the midst thus undismai'd began.
 
+[verse]
 O now in danger tri'd, now known in Armes
 Not to be overpowerd, Companions deare,
 Found worthy not of Libertie alone,
@@ -5136,6 +5292,7 @@ Left them Superiour, while we can preserve
 Unhurt our mindes, and understanding sound,
 Due search and consultation will disclose.
 
+[verse]
 He sat; and in th' assembly next upstood
 NISROC, of Principalities the prime;
 As one he stood escap't from cruel fight,
@@ -5160,6 +5317,7 @@ Our yet unwounded Enemies, or arme
 Our selves with like defence, to mee deserves
 No less then for deliverance what we owe.
 
+[verse]
 Whereto with look compos'd SATAN repli'd.
 Not uninvented that, which thou aright
 Beleivst so main to our success, I bring;
@@ -5229,6 +5387,7 @@ But firm Battalion; back with speediest Sail
 ZEPHIEL, of Cherubim the swiftest wing,
 Came flying, and in mid Aire aloud thus cri'd.
 
+[verse]
 Arme, Warriours, Arme for fight, the foe at hand,
 Whom fled we thought, will save us long pursuit
 This day, fear not his flight; so thick a Cloud
@@ -5251,6 +5410,7 @@ To hide the fraud.  At interview both stood
 A while, but suddenly at head appeerd
 SATAN: And thus was heard Commanding loud.
 
+[verse]
 Vangard, to Right and Left the Front unfould;
 That all may see who hate us, how we seek
 Peace and composure, and with open brest
@@ -5262,6 +5422,7 @@ Freely our part: yee who appointed stand
 Do as you have in charge, and briefly touch
 What we propound, and loud that all may hear.
 
+[verse]
 So scoffing in ambiguous words, he scarce
 Had ended; when to Right and Left the Front
 Divided, and to either Flank retir'd.
@@ -5304,6 +5465,7 @@ Of Thunder: back defeated to return
 They worse abhorr'd.  SATAN beheld thir plight,
 And to his Mates thus in derision call'd.
 
+[verse]
 O Friends, why come not on these Victors proud?
 Ere while they fierce were coming, and when wee,
 To entertain them fair with open Front
@@ -5316,6 +5478,7 @@ For joy of offerd peace: but I suppose
 If our proposals once again were heard
 We should compel them to a quick result.
 
+[verse]
 To whom thus BELIAL in like gamesom mood.
 Leader, the terms we sent were terms of weight,
 Of hard contents, and full of force urg'd home,
@@ -5325,6 +5488,7 @@ Had need from head to foot well understand;
 Not understood, this gift they have besides,
 They shew us when our foes walk not upright.
 
+[verse]
 So they among themselves in pleasant veine
 Stood scoffing, highthn'd in thir thoughts beyond
 All doubt of Victorie, eternal might
@@ -5378,6 +5542,7 @@ Upon his enemies, and to declare
 All power on him transferr'd: whence to his Son
 Th' Assessor of his Throne he thus began.
 
+[verse]
 Effulgence of my Glorie, Son belov'd,
 Son in whose face invisible is beheld
 Visibly, what by Deitie I am,
@@ -5418,11 +5583,13 @@ From all Heav'ns bounds into the utter Deep:
 There let them learn, as likes them, to despise
 God and MESSIAH his anointed King.
 
+[verse]
 He said, and on his Son with Rayes direct
 Shon full, he all his Father full exprest
 Ineffably into his face receiv'd,
 And thus the filial Godhead answering spake.
 
+[verse]
 O Father, O Supream of heav'nly Thrones,
 First, Highest, Holiest, Best, thou alwayes seekst
 To glorifie thy Son, I alwayes thee,
@@ -5502,6 +5669,7 @@ To final Battel drew, disdaining flight,
 Or faint retreat; when the great Son of God
 To all his Host on either hand thus spake.
 
+[verse]
 Stand still in bright array ye Saints, here stand
 Ye Angels arm'd, this day from Battel rest;
 Faithful hath been your Warfare, and of God
@@ -5526,6 +5694,7 @@ They measure all, of other excellence
 Not emulous, nor care who them excells;
 Nor other strife with them do I voutsafe.
 
+[verse]
 So spake the Son, and into terrour chang'd
 His count'nance too severe to be beheld
 And full of wrauth bent on his Enemies.
@@ -5570,6 +5739,7 @@ Urg'd them behind; headlong themselvs they threw
 Down from the verge of Heav'n, Eternal wrauth
 Burnt after them to the bottomless pit.
 
+[verse]
 Hell heard th' unsufferable noise, Hell saw
 Heav'n ruining from Heav'n and would have fled
 Affrighted; but strict Fate had cast too deep
@@ -5597,6 +5767,7 @@ And Temple of his mightie Father Thron'd
 On high; who into Glorie him receav'd,
 Where now he sits at the right hand of bliss.
 
+[verse]
 Thus measuring things in Heav'n by things on Earth
 At thy request, and that thou maist beware
 By what is past, to thee I have reveal'd
@@ -5618,10 +5789,12 @@ By terrible Example the reward
 Of disobedience; firm they might have stood,
 Yet fell; remember, and fear to transgress.
 
+[verse]
 The End of the Sixth Book.
 
 == Book VII.
 
+[verse]
 Descend from Heav'n URANIA, by that name
 If rightly thou art call'd, whose Voice divine
 Following, above th' OLYMPIAN Hill I soare,
@@ -5662,6 +5835,7 @@ Both Harp and Voice; nor could the Muse defend
 Her Son.  So fail not thou, who thee implores:
 For thou art Heav'nlie, shee an empty dreame.
 
+[verse]
 Say Goddess, what ensu'd when RAPHAEL,
 The affable Arch-angel, had forewarn'd
 ADAM by dire example to beware
@@ -5693,6 +5867,7 @@ Yet scarce allay'd still eyes the current streame,
 Whose liquid murmur heard new thirst excites,
 Proceeded thus to ask his Heav'nly Guest.
 
+[verse]
 Great things, and full of wonder in our eares,
 Farr differing from this World, thou hast reveal'd
 Divine Interpreter, by favour sent
@@ -5733,8 +5908,10 @@ Silence, and Sleep listning to thee will watch,
 Or we can bid his absence, till thy Song
 End, and dismiss thee ere the Morning shine.
 
+[verse]
 Thus ADAM his illustrous Guest besought:
 
+[verse]
 And thus the Godlike Angel answerd milde.
 This also thy request with caution askt
 Obtaine: though to recount Almightie works
@@ -5757,6 +5934,7 @@ In measure what the mind may well contain,
 Oppresses else with Surfet, and soon turns
 Wisdom to Folly, as Nourishment to Winde.
 
+[verse]
 Know then, that after LUCIFER from Heav'n
 (So call him, brighter once amidst the Host
 Of Angels, then that Starr the Starrs among)
@@ -5766,6 +5944,7 @@ Victorious with his Saints, th' Omnipotent
 Eternal Father from his Throne beheld
 Thir multitude, and to his Son thus spake.
 
+[verse]
 At least our envious Foe hath fail'd, who thought
 All like himself rebellious, by whose aid
 This inaccessible high strength, the seat
@@ -5802,6 +5981,7 @@ And put not forth my goodness, which is free
 To act or not, Necessitie and Chance
 Approach not mee, and what I will is Fate.
 
+[verse]
 So spake th' Almightie, and to what he spake
 His Word, the Filial Godhead, gave effect.
 Immediate are the Acts of God, more swift
@@ -5845,9 +6025,11 @@ Up from the bottom turn'd by furious windes
 And surging waves, as Mountains to assault
 Heav'ns highth, and with the Center mix the Pole.
 
+[verse]
 Silence, ye troubl'd waves, and thou Deep, peace,
 Said then th' Omnific Word, your discord end:
 
+[verse]
 Nor staid, but on the Wings of Cherubim
 Uplifted, in Paternal Glorie rode
 Farr into CHAOS, and the World unborn;
@@ -5874,6 +6056,7 @@ Like things to like, the rest to several place
 Disparted, and between spun out the Air,
 And Earth self-ballanc't on her Center hung.
 
+[verse]
 Let ther be Light, said God, and forthwith Light
 Ethereal, first of things, quintessence pure
 Sprung from the Deep, and from her Native East
@@ -5893,6 +6076,7 @@ And touch't thir Golden Harps, & hymning prais'd
 God and his works, Creatour him they sung,
 Both when first Eevning was, and when first Morn.
 
+[verse]
 Again, God said, let ther be Firmament
 Amid the Waters, and let it divide
 The Waters from the Waters: and God made
@@ -5909,6 +6093,7 @@ Contiguous might distemper the whole frame:
 And Heav'n he nam'd the Firmament: So Eev'n
 And Morning CHORUS sung the second Day.
 
+[verse]
 The Earth was form'd, but in the Womb as yet
 Of Waters, Embryon immature involv'd,
 Appeer'd not: over all the face of Earth
@@ -5973,6 +6158,7 @@ God made, and every Herb, before it grew
 On the green stemm; God saw that it was good:
 So Eev'n and Morn recorded the Third Day.
 
+[verse]
 Again th' Almightie spake: Let there be Lights
 High in th' expanse of Heaven to divide
 The Day from Night; and let them be for Signes,
@@ -6022,6 +6208,7 @@ Spangling the Hemisphere: then first adornd
 With thir bright Luminaries that Set and Rose,
 Glad Eevning & glad Morn crownd the fourth day.
 
+[verse]
 And God said, let the Waters generate
 Reptil with Spawn abundant, living Soule:
 And let Fowle flie above the Earth, with wings
@@ -6085,6 +6272,7 @@ Of Rainbows and Starrie Eyes.  The Waters thus
 With Fish replenisht, and the Aire with Fowle,
 Ev'ning and Morn solemniz'd the Fift day.
 
+[verse]
 The Sixt, and of Creation last arose
 With Eevning Harps and Mattin, when God said,
 Let th' Earth bring forth Fowle living in her kinde,
@@ -6156,6 +6344,7 @@ Of all his works: therefore the Omnipotent
 Eternal Father (For where is not hee
 Present) thus to his Son audibly spake.
 
+[verse]
 Let us make now Man in our image, Man
 In our similitude, and let them rule
 Over the Fish and Fowle of Sea and Aire,
@@ -6271,6 +6460,7 @@ And multiply a Race of Worshippers
 Holy and just: thrice happie if they know
 Thir happiness, and persevere upright.
 
+[verse]
 So sung they, and the Empyrean rung,
 With HALLELUIAHS: Thus was Sabbath kept.
 And thy request think now fulfill'd, that ask'd
@@ -6280,6 +6470,7 @@ From the beginning, that posteritie
 Informd by thee might know; if else thou seekst
 Aught, not surpassing human measure, say.
 
+[verse]
 To whom thus ADAM gratefully repli'd.
 What thanks sufficient, or what recompence
 Equal have I to render thee, Divine
@@ -6316,6 +6507,7 @@ As Tribute such a sumless journey brought
 Of incorporeal speed, her warmth and light;
 Speed, to describe whose swiftness Number failes.
 
+[verse]
 So spake our Sire, and by his count'nance seemd
 Entring on studious thoughts abstruse, which EVE
 Perceaving where she sat retir'd in sight,
@@ -6344,6 +6536,7 @@ Into all Eyes to wish her still in sight.
 And RAPHAEL now to ADAM's doubt propos'd
 Benevolent and facil thus repli'd.
 
+[verse]
 To ask or search I blame thee not, for Heav'n
 Is as the Book of God before thee set,
 Wherein to read his wondrous Works, and learne
@@ -6458,6 +6651,7 @@ Live, in what state, condition or degree,
 Contented that thus farr hath been reveal'd
 Not of Earth onely but of highest Heav'n.
 
+[verse]
 To whom thus ADAM cleerd of doubt, repli'd.
 How fully hast thou satisfi'd mee, pure
 Intelligence of Heav'n, Angel serene,
@@ -6497,6 +6691,7 @@ Of sweet repast; they satiate, and soon fill,
 Though pleasant, but thy words with Grace Divine
 Imbu'd, bring to thir sweetness no satietie.
 
+[verse]
 To whom thus RAPHAEL answer'd heav'nly meek.
 Nor are thy lips ungraceful, Sire of men,
 Nor tongue ineloquent; for God on thee
@@ -6530,6 +6725,7 @@ Ere Sabbath Eev'ning: so we had in charge.
 But thy relation now; for I attend,
 Pleas'd with thy words no less then thou with mine.
 
+[verse]
 So spake the Godlike Power, and thus our Sire.
 For Man to tell how human Life began
 Is hard; for who himself beginning knew?
@@ -6639,6 +6835,7 @@ My sudden apprehension: but in these
 I found not what me thought I wanted still;
 And to the Heav'nly vision thus presum'd.
 
+[verse]
 O by what Name, for thou above all these,
 Above mankinde, or aught then mankinde higher,
 Surpassest farr my naming, how may I
@@ -6652,6 +6849,7 @@ Or all enjoying, what contentment find?
 Thus I presumptuous; and the vision bright,
 As with a smile more bright'nd, thus repli'd.
 
+[verse]
 What call'st thou solitude, is not the Earth
 With various living creatures, and the Aire
 Replenisht, and all these at thy command
@@ -6663,6 +6861,7 @@ So spake the Universal Lord, and seem'd
 So ordering.  I with leave of speech implor'd,
 And humble deprecation thus repli'd.
 
+[verse]
 Let not my words offend thee, Heav'nly Power,
 My Maker, be propitious while I speak.
 Hast thou not made me here thy substitute,
@@ -6683,6 +6882,7 @@ Much less can Bird with Beast, or Fish with Fowle
 So well converse, nor with the Ox the Ape;
 Wors then can Man with Beast, and least of all.
 
+[verse]
 Whereto th' Almighty answer'd, not displeas'd.
 A nice and suttle happiness I see
 Thou to thy self proposest, in the choice
@@ -6698,6 +6898,7 @@ Save with the Creatures which I made, and those
 To me inferiour, infinite descents
 Beneath what other Creatures are to thee?
 
+[verse]
 He ceas'd, I lowly answer'd.  To attaine
 The highth and depth of thy Eternal wayes
 All human thoughts come short, Supream of things;
@@ -6724,6 +6925,7 @@ Thus I embold'nd spake, and freedom us'd
 Permissive, and acceptance found, which gain'd
 This answer from the gratious voice Divine.
 
+[verse]
 Thus farr to try thee, ADAM, I was pleas'd,
 And finde thee knowing not of Beasts alone,
 Which thou hast rightly nam'd, but of thy self,
@@ -6740,6 +6942,7 @@ What next I bring shall please thee, be assur'd,
 Thy likeness, thy fit help, thy other self,
 Thy wish, exactly to thy hearts desire.
 
+[verse]
 Hee ended, or I heard no more, for now
 My earthly by his Heav'nly overpowerd,
 Which it had long stood under, streind to the highth
@@ -6780,6 +6983,7 @@ Grace was in all her steps, Heav'n in her Eye,
 In every gesture dignitie and love.
 I overjoyd could not forbear aloud.
 
+[verse]
 This turn hath made amends; thou hast fulfill'd
 Thy words, Creator bounteous and benigne,
 Giver of all things faire, but fairest this
@@ -6790,6 +6994,7 @@ Extracted; for this cause he shall forgoe
 Father and Mother, and to his Wife adhere;
 And they shall be one Flesh, one Heart, one Soule.
 
+[verse]
 She heard me thus, and though divinely brought,
 Yet Innocence and Virgin Modestie,
 Her vertue and the conscience of her worth,
@@ -6852,6 +7057,7 @@ Build in her loveliest, and create an awe
 About her, as a guard Angelic plac't.
 To whom the Angel with contracted brow.
 
+[verse]
 Accuse not Nature, she hath don her part;
 Do thou but thine, and be not diffident
 Of Wisdom, she deserts thee not, if thou
@@ -6887,6 +7093,7 @@ By which to heav'nly Love thou maist ascend,
 Not sunk in carnal pleasure, for which cause
 Among the Beasts no Mate for thee was found.
 
+[verse]
 To whom thus half abash't ADAM repli'd.
 Neither her out-side formd so fair, nor aught
 In procreation common to all kindes
@@ -6911,6 +7118,7 @@ Love not the heav'nly Spirits, and how thir Love
 Express they, by looks onely, or do they mix
 Irradiance, virtual or immediate touch?
 
+[verse]
 To whom the Angel with a smile that glow'd
 Celestial rosie red, Loves proper hue,
 Answer'd.  Let it suffice thee that thou know'st
@@ -6938,6 +7146,7 @@ Free in thine own Arbitrement it lies.
 Perfet within, no outward aid require;
 And all temptation to transgress repel.
 
+[verse]
 So saying, he arose; whom ADAM thus
 Follow'd with benediction.  Since to part,
 Go heavenly Guest, Ethereal Messenger,
@@ -6947,13 +7156,16 @@ Thy condescension, and shall be honour'd ever
 With grateful Memorie: thou to mankind
 Be good and friendly still, and oft return.
 
+[verse]
 So parted they, the Angel up to Heav'n
 From the thick shade, and ADAM to his Bowre.
 
+[verse]
 The End of the Seventh Book.
 
 == Book VIII.
 
+[verse]
 No more of talk where God or Angel Guest
 With Man, as with his Friend, familiar us'd
 To sit indulgent, and with him partake
@@ -7002,6 +7214,7 @@ Climat, or Years damp my intended wing
 Deprest, and much they may, if all be mine,
 Not Hers who brings it nightly to my Ear.
 
+[verse]
 The Sun was sunk, and after him the Starr
 Of HESPERUS, whose Office is to bring
 Twilight upon the Earth, short Arbiter
@@ -7054,6 +7267,7 @@ Active within beyond the sense of brute.
 Thus he resolv'd, but first from inward griefe
 His bursting passion into plaints thus pour'd:
 
+[verse]
 O Earth, how like to Heav'n, if not preferrd
 More justly, Seat worthier of Gods, as built
 With second thoughts, reforming what was old!
@@ -7135,6 +7349,7 @@ Of Heav'n, this Man of Clay, Son of despite,
 Whom us the more to spite his Maker rais'd
 From dust: spite then with spite is best repaid.
 
+[verse]
 So saying, through each Thicket Danck or Drie,
 Like a black mist low creeping, he held on
 His midnight search, where soonest he might finde
@@ -7162,6 +7377,7 @@ Thir growing work: for much thir work outgrew
 The hands dispatch of two Gardning so wide.
 And EVE first to her Husband thus began.
 
+[verse]
 ADAM, well may we labour still to dress
 This Garden, still to tend Plant, Herb and Flour.
 Our pleasant task enjoyn'd, but till more hands
@@ -7184,6 +7400,7 @@ Casual discourse draw on, which intermits
 Our dayes work brought to little, though begun
 Early, and th' hour of Supper comes unearn'd.
 
+[verse]
 To whom mild answer ADAM thus return'd.
 Sole EVE, Associate sole, to me beyond
 Compare above all living Creatures deare,
@@ -7229,10 +7446,12 @@ The Wife, where danger or dishonour lurks,
 Safest and seemliest by her Husband staies,
 Who guards her, or with her the worst endures.
 
+[verse]
 To whom the Virgin Majestie of EVE,
 As one who loves, and some unkindness meets,
 With sweet austeer composure thus reply'd.
 
+[verse]
 Ofspring of Heav'n and Earth, and all Earths Lord,
 That such an enemie we have, who seeks
 Our ruin, both by thee informd I learne,
@@ -7251,6 +7470,7 @@ Can by his fraud be shak'n or seduc't;
 Thoughts, which how found they harbour in thy Brest,
 ADAM, misthought of her to thee so dear?
 
+[verse]
 To whom with healing words ADAM reply'd.
 Daughter of God and Man, immortal EVE,
 For such thou art, from sin and blame entire:
@@ -7280,11 +7500,13 @@ Why shouldst not thou like sense within thee feel
 When I am present, and thy trial choose
 With me, best witness of thy Vertue tri'd.
 
+[verse]
 So spake domestick ADAM in his care
 And Matrimonial Love, but EVE, who thought
 Less attributed to her Faith sincere,
 Thus her reply with accent sweet renewd.
 
+[verse]
 If this be our condition, thus to dwell
 In narrow circuit strait'nd by a Foe,
 Suttle or violent, we not endu'd
@@ -7306,6 +7528,7 @@ As not secure to single or combin'd.
 Fraile is our happiness, if this be so,
 And EDEN were no EDEN thus expos'd.
 
+[verse]
 To whom thus ADAM fervently repli'd.
 O Woman, best are all things as the will
 Of God ordaind them, his creating hand
@@ -7341,9 +7564,11 @@ Go in thy native innocence, relie
 On what thou hast of vertue, summon all,
 For God towards thee hath done his part, do thine.
 
+[verse]
 So spake the Patriarch of Mankinde, but EVE
 Persisted, yet submiss, though last, repli'd.
 
+[verse]
 With thy permission then, and thus forewarnd
 Chiefly by what thy own last reasoning words
 Touchd onely, that our trial, when least sought,
@@ -7440,6 +7665,7 @@ Of pleasure not for him ordain'd: then soon
 Fierce hate he recollects, and all his thoughts
 Of mischief, gratulating, thus excites.
 
+[verse]
 Thoughts, whither have he led me, with what sweet
 Compulsion thus transported to forget
 What hither brought us, hate, not love, nor hope
@@ -7462,6 +7688,7 @@ And beautie, not approacht by stronger hate,
 Hate stronger, under shew of Love well feign'd,
 The way which to her ruin now I tend.
 
+[verse]
 So spake the Enemie of Mankind, enclos'd
 In Serpent, Inmate bad, and toward EVE
 Address'd his way, not with indented wave,
@@ -7501,6 +7728,7 @@ Of her attention gaind, with Serpent Tongue
 Organic, or impulse of vocal Air,
 His fraudulent temptation thus began.
 
+[verse]
 Wonder not, sovran Mistress, if perhaps
 Thou canst, who art sole Wonder, much less arm
 Thy looks, the Heav'n of mildness, with disdain,
@@ -7519,6 +7747,7 @@ Who sees thee? (and what is one?) who shouldst be seen
 A Goddess among Gods, ador'd and serv'd
 By Angels numberless, thy daily Train.
 
+[verse]
 So gloz'd the Tempter, and his Proem tun'd;
 Into the Heart of EVE his words made way,
 Though at the voice much marveling; at length
@@ -7538,6 +7767,7 @@ To me so friendly grown above the rest
 Of brutal kind, that daily are in sight?
 Say, for such wonder claims attention due.
 
+[verse]
 To whom the guileful Tempter thus reply'd.
 Empress of this fair World, resplendent EVE,
 Easie to mee it is to tell thee all
@@ -7585,9 +7815,11 @@ Mee thus, though importune perhaps, to come
 And gaze, and worship thee of right declar'd
 Sovran of Creatures, universal Dame.
 
+[verse]
 So talk'd the spirited sly Snake; and EVE
 Yet more amaz'd unwarie thus reply'd.
 
+[verse]
 Serpent, thy overpraising leaves in doubt
 The vertue of that Fruit, in thee first prov'd:
 But say, where grows the Tree, from hence how far?
@@ -7599,6 +7831,7 @@ Still hanging incorruptible, till men
 Grow up to thir provision, and more hands
 Help to disburden Nature of her Bearth.
 
+[verse]
 To whom the wilie Adder, blithe and glad.
 Empress, the way is readie, and not long,
 Beyond a row of Myrtles, on a Flat,
@@ -7606,6 +7839,7 @@ Fast by a Fountain, one small Thicket past
 Of blowing Myrrh and Balme; if thou accept
 My conduct, I can bring thee thither soon.
 
+[verse]
 Lead then, said EVE.  Hee leading swiftly rowld
 In tangles, and make intricate seem strait,
 To mischief swift.  Hope elevates, and joy
@@ -7623,6 +7857,7 @@ Led EVE our credulous Mother, to the Tree
 Of prohibition, root of all our woe;
 Which when she saw, thus to her guide she spake.
 
+[verse]
 Serpent, we might have spar'd our coming hither,
 Fruitless to me, though Fruit be here to excess,
 The credit of whose vertue rest with thee,
@@ -7632,17 +7867,20 @@ God so commanded, and left that Command
 Sole Daughter of his voice; the rest, we live
 Law to our selves, our Reason is our Law.
 
+[verse]
 To whom the Tempter guilefully repli'd.
 Indeed? hath God then said that of the Fruit
 Of all these Garden Trees ye shall not eate,
 Yet Lords declar'd of all in Earth or Aire?
 
+[verse]
 To whom thus EVE yet sinless.  Of the Fruit
 Of each Tree in the Garden we may eate,
 But of the Fruit of this fair Tree amidst
 The Garden, God hath said, Ye shall not eate
 Thereof, nor shall ye touch it, least ye die.
 
+[verse]
 She scarse had said, though brief, when now more bold
 The Tempter, but with shew of Zeale and Love
 To Man, and indignation at his wrong,
@@ -7659,6 +7897,7 @@ Of Preface brooking through his Zeal of Right.
 So standing, moving, or to highth upgrown
 The Tempter all impassiond thus began.
 
+[verse]
 O Sacred, Wise, and Wisdom-giving Plant,
 Mother of Science, Now I feel thy Power
 Within me cleere, not onely to discerne
@@ -7714,6 +7953,7 @@ In heav'nly brests? these, these and many more
 Causes import your need of this fair Fruit.
 Goddess humane, reach then, and freely taste.
 
+[verse]
 He ended, and his words replete with guile
 Into her heart too easie entrance won:
 Fixt on the Fruit she gaz'd, which to behold
@@ -7727,6 +7967,7 @@ Inclinable now grown to touch or taste,
 Sollicited her longing eye; yet first
 Pausing a while, thus to her self she mus'd.
 
+[verse]
 Great are thy Vertues, doubtless, best of Fruits,
 Though kept from Man, & worthy to be admir'd,
 Whose taste, too long forborn, at first assay
@@ -7763,6 +8004,7 @@ Fair to the Eye, inviting to the Taste,
 Of vertue to make wise: what hinders then
 To reach, and feed at once both Bodie and Mind?
 
+[verse]
 So saying, her rash hand in evil hour
 Forth reaching to the Fruit, she pluck'd, she eat:
 Earth felt the wound, and Nature from her seat
@@ -7779,6 +8021,7 @@ And knew not eating Death: Satiate at length,
 And hight'nd as with Wine, jocond and boon,
 Thus to her self she pleasingly began.
 
+[verse]
 O Sovran, vertuous, precious of all Trees
 In Paradise, of operation blest
 To Sapience, hitherto obscur'd, infam'd,
@@ -7819,6 +8062,7 @@ ADAM shall share with me in bliss or woe:
 So dear I love him, that with him all deaths
 I could endure; without him live no life.
 
+[verse]
 So saying, from the Tree her step she turnd,
 But first low Reverence don, as to the power
 That dwelt within, whose presence had infus'd
@@ -7842,6 +8086,7 @@ To him she hasted, in her face excuse
 Came Prologue, and Apologie to prompt,
 Which with bland words at will she thus addrest.
 
+[verse]
 Hast thou not wonderd, ADAM, at my stay?
 Thee I have misst, and thought it long, depriv'd
 Thy presence, agonie of love till now
@@ -7873,6 +8118,7 @@ Least thou not tasting, different degree
 Disjoyne us, and I then too late renounce
 Deitie for thee, when Fate will not permit.
 
+[verse]
 Thus EVE with Countnance blithe her storie told;
 But in her Cheek distemper flushing glowd.
 On th' other side, ADAM, soon as he heard
@@ -7884,6 +8130,7 @@ Down drop'd, and all the faded Roses shed:
 Speechless he stood and pale, till thus at length
 First to himself he inward silence broke.
 
+[verse]
 O fairest of Creation, last and best
 Of all Gods Works, Creature in whom excell'd
 Whatever can to fight or thought be found,
@@ -7906,11 +8153,13 @@ The Link of Nature draw me: Flesh of Flesh,
 Bone of my Bone thou art, and from thy State
 Mine never shall be parted, bliss or woe.
 
+[verse]
 So having said, as one from sad dismay
 Recomforted, and after thoughts disturbd
 Submitting to what seemd remediless,
 Thus in calme mood his Words to EVE he turnd.
 
+[verse]
 Bold deed thou hast presum'd, adventrous EVE,
 And peril great provok't, who thus hast dar'd
 Had it bin onely coveting to Eye
@@ -7951,6 +8200,7 @@ My own in thee, for what thou art is mine;
 Our State cannot be severd, we are one,
 One Flesh; to loose thee were to loose my self.
 
+[verse]
 So ADAM, and thus EVE to him repli'd.
 O glorious trial of exceeding Love,
 Illustrious evidence, example high!
@@ -7982,6 +8232,7 @@ Hath toucht my sense, flat seems to this, and harsh.
 On my experience, ADAM, freely taste,
 And fear of Death deliver to the Windes.
 
+[verse]
 So saying, she embrac'd him, and for joy
 Tenderly wept, much won that he his Love
 Had so enobl'd, as of choice to incurr
@@ -8010,6 +8261,7 @@ Began to cast lascivious Eyes, she him
 As wantonly repaid; in Lust they burne:
 Till ADAM thus 'gan EVE to dalliance move.
 
+[verse]
 EVE, now I see thou art exact of taste,
 And elegant, of Sapience no small part,
 Since to each meaning savour we apply,
@@ -8028,6 +8280,7 @@ With all perfections, so enflame my sense
 With ardor to enjoy thee, fairer now
 Then ever, bountie of this vertuous Tree.
 
+[verse]
 So said he, and forbore not glance or toy
 Of amorous intent, well understood
 Of EVE, whose Eye darted contagious Fire.
@@ -8062,6 +8315,7 @@ Confounded long they sate, as struck'n mute,
 Till ADAM, though not less then EVE abasht,
 At length gave utterance to these words constraind.
 
+[verse]
 O EVE, in evil hour thou didst give care
 To that false Worm, of whomsoever taught
 To counterfet Mans voice, true in our Fall,
@@ -8095,6 +8349,7 @@ And girded on our loyns, may cover round
 Those middle parts, that this new commer, Shame,
 There sit not, and reproach us as unclean.
 
+[verse]
 So counsel'd hee, and both together went
 Into the thickest Wood, there soon they chose
 The Figtree, not that kind for Fruit renown'd,
@@ -8131,6 +8386,7 @@ Superior sway: From thus distemperd brest,
 ADAM, estrang'd in look and alterd stile,
 Speech intermitted thus to EVE renewd.
 
+[verse]
 Would thou hadst heark'nd to my words, & stai'd
 With me, as I besought thee, when that strange
 Desire of wandring this unhappie Morn,
@@ -8141,6 +8397,7 @@ Let none henceforth seek needless cause to approve
 The Faith they owe; when earnestly they seek
 Such proof, conclude, they then begin to faile.
 
+[verse]
 To whom soon mov'd with touch of blame thus EVE.
 What words have past thy Lips, ADAM severe,
 Imput'st thou that to my default, or will
@@ -8161,6 +8418,7 @@ Nay, didst permit, approve, and fair dismiss.
 Hadst thou bin firm and fixt in thy dissent,
 Neither had I transgress'd, nor thou with mee.
 
+[verse]
 To whom then first incenst ADAM repli'd.
 Is this the Love, is the recompence
 Of mine to thee, ingrateful EVE, exprest
@@ -8187,14 +8445,17 @@ Lets her Will rule; restraint she will not brook,
 And left to her self, if evil thence ensue,
 Shee first his weak indulgence will accuse.
 
+[verse]
 Thus they in mutual accusation spent
 The fruitless hours, but neither self-condemning
 And of thir vain contest appeer'd no end.
 
+[verse]
 The End of the Eighth Book.
 
 == Book IX.
 
+[verse]
 Meanwhile the hainous and despightfull act
 Of SATAN done in Paradise, and how
 Hee in the Serpent had perverted EVE,
@@ -8229,6 +8490,7 @@ And easily approv'd; when the most High
 Eternal Father from his secret Cloud,
 Amidst in Thunder utter'd thus his voice.
 
+[verse]
 Assembl'd Angels, and ye Powers return'd
 From unsuccessful charge, be not dismaid,
 Nor troubl'd at these tidings from the Earth,
@@ -8259,12 +8521,14 @@ Mans Friend, his Mediator, his design'd
 Both Ransom and Redeemer voluntarie,
 And destin'd Man himself to judge Man fall'n.
 
+[verse]
 So spake the Father, and unfoulding bright
 Toward the right hand his Glorie, on the Son
 Blaz'd forth unclouded Deitie; he full
 Resplendent all his Father manifest
 Express'd, and thus divinely answer'd milde.
 
+[verse]
 Father Eternal, thine is to decree,
 Mine both in Heav'n and Earth to do thy will
 Supream, that thou in mee thy Son belov'd
@@ -8283,6 +8547,7 @@ Those two; the third best absent is condemn'd,
 Convict by flight, and Rebel to all Law
 Conviction to the Serpent none belongs.
 
+[verse]
 Thus saying, from his radiant Seat he rose
 Of high collateral glorie: him Thrones and Powers,
 Princedoms, and Dominations ministrant
@@ -8302,6 +8567,7 @@ And from his presence hid themselves among
 The thickest Trees, both Man and Wife, till God
 Approaching, thus to ADAM call'd aloud.
 
+[verse]
 Where art thou ADAM, wont with joy to meet
 My coming seen far off?  I miss thee here,
 Not pleas'd, thus entertaind with solitude,
@@ -8316,16 +8582,19 @@ And shame, and perturbation, and despaire,
 Anger, and obstinacie, and hate, and guile.
 Whence ADAM faultring long, thus answer'd brief.
 
+[verse]
 I heard thee in the Garden, and of thy voice
 Affraid, being naked, hid my self.  To whom
 The gracious Judge without revile repli'd.
 
+[verse]
 My voice thou oft hast heard, and hast not fear'd,
 But still rejoyc't, how is it now become
 So dreadful to thee? that thou art naked, who
 Hath told thee? hast thou eaten of the Tree
 Whereof I gave thee charge thou shouldst not eat?
 
+[verse]
 To whom thus ADAM sore beset repli'd.
 O Heav'n! in evil strait this day I stand
 Before my Judge, either to undergoe
@@ -8347,6 +8616,7 @@ And what she did, whatever in it self,
 Her doing seem'd to justifie the deed;
 Shee gave me of the Tree, and I did eate.
 
+[verse]
 To whom the sovran Presence thus repli'd.
 Was shee thy God, that her thou didst obey
 Before his voice, or was shee made thy guide,
@@ -8361,15 +8631,19 @@ Were such as under Government well seem'd,
 Unseemly to beare rule, which was thy part
 And person, had'st thou known thy self aright.
 
+[verse]
 So having said, he thus to EVE in few:
 Say Woman, what is this which thou hast done?
 
+[verse]
 To whom sad EVE with shame nigh overwhelm'd,
 Confessing soon, yet not before her Judge
 Bold or loquacious, thus abasht repli'd.
 
+[verse]
 The Serpent me beguil'd and I did eate.
 
+[verse]
 Which when the Lord God heard, without delay
 To Judgement he proceeded on th' accus'd
 Serpent though brute, unable to transferre
@@ -8383,6 +8657,7 @@ To Satan first in sin his doom apply'd,
 Though in mysterious terms, judg'd as then best:
 And on the Serpent thus his curse let fall.
 
+[verse]
 Because thou hast done this, thou art accurst
 Above all Cattel, each Beast of the Field;
 Upon thy Belly groveling thou shalt goe,
@@ -8391,6 +8666,7 @@ Between Thee and the Woman I will put
 Enmitie, and between thine and her Seed;
 Her Seed shall bruise thy head, thou bruise his heel.
 
+[verse]
 So spake this Oracle, then verifi'd
 When JESUS son of MARY second EVE,
 Saw Satan fall like Lightning down from Heav'n,
@@ -8403,11 +8679,13 @@ Whom he shall tread at last under our feet;
 Eevn hee who now foretold his fatal bruise,
 And to the Woman thus his Sentence turn'd.
 
+[verse]
 Thy sorrow I will greatly multiplie
 By thy Conception; Children thou shalt bring
 In sorrow forth, and to thy Husbands will
 Thine shall submit, hee over thee shall rule.
 
+[verse]
 On ADAM last thus judgement he pronounc'd.
 Because thou hast heark'nd to the voice of thy Wife,
 And eaten of the Tree concerning which
@@ -8421,6 +8699,7 @@ Till thou return unto the ground, for thou
 Out of the ground wast taken, know thy Birth,
 For dust thou art, and shalt to dust returne.
 
+[verse]
 So judg'd he Man, both Judge and Saviour sent,
 And th' instant stroke of Death denounc't that day
 Remov'd farr off; then pittying how they stood
@@ -8448,6 +8727,7 @@ Stood open wide, belching outrageous flame
 Farr into CHAOS, since the Fiend pass'd through,
 Sin opening, who thus now to Death began.
 
+[verse]
 O Son, why sit we here each other viewing
 Idlely, while Satan our great Author thrives
 In other Worlds, and happier Seat provides
@@ -8478,6 +8758,7 @@ Or transmigration, as thir lot shall lead.
 Nor can I miss the way, so strongly drawn
 By this new felt attraction and instinct.
 
+[verse]
 Whom thus the meager Shadow answerd soon.
 Goe whither Fate and inclination strong
 Leads thee, I shall not lag behinde, nor erre
@@ -8487,6 +8768,7 @@ The savour of Death from all things there that live:
 Nor shall I to the work thou enterprisest
 Be wanting, but afford thee equal aid.
 
+[verse]
 So saying, with delight he snuff'd the smell
 Of mortal change on Earth.  As when a flock
 Of ravenous Fowl, though many a League remote,
@@ -8570,6 +8852,7 @@ Of that stupendious Bridge his joy encreas'd.
 Long hee admiring stood, till Sin, his faire
 Inchanting Daughter, thus the silence broke.
 
+[verse]
 O Parent, these are thy magnific deeds,
 Thy Trophies, which thou view'st as not thine own,
 Thou art thir Author and prime Architect:
@@ -8600,6 +8883,7 @@ Of all things, parted by th' Empyreal bounds,
 His Quadrature, from thy Orbicular World,
 Or trie thee now more dang'rous to his Throne.
 
+[verse]
 Whom thus the Prince of Darkness answerd glad.
 Fair Daughter, and thou Son and Grandchild both,
 High proof ye now have giv'n to be the Race
@@ -8628,6 +8912,7 @@ Through Sin to Death expos'd by my exploit.
 If your joynt power prevaile, th' affaires of Hell
 No detriment need feare, goe and be strong.
 
+[verse]
 So saying he dismiss'd them, they with speed
 Thir course through thickest Constellations held
 Spreading thir bane; the blasted Starrs lookt wan,
@@ -8679,6 +8964,7 @@ Rais'd from thir dark DIVAN, and with like joy
 Congratulant approach'd him, who with hand
 Silence, and with these words attention won.
 
+[verse]
 Thrones, Dominations, Princedoms, Vertues, Powers,
 For in possession such, not onely of right,
 I call ye and declare ye now, returnd
@@ -8724,6 +9010,7 @@ Or much more grievous pain?  Ye have th' account
 Of my performance: What remaines, ye Gods,
 But up and enter now into full bliss.
 
+[verse]
 So having said, a while he stood, expecting
 Thir universal shout and high applause
 To fill his eare, when contrary he hears
@@ -8812,12 +9099,14 @@ Habitual habitant; behind her DEATH
 Close following pace for pace, not mounted yet
 On his pale Horse: to whom SIN thus began.
 
+[verse]
 Second of SATAN sprung, all conquering Death,
 What thinkst thou of our Empire now, though earnd
 With travail difficult, not better farr
 Then stil at Hels dark threshold to have sate watch,
 Unnam'd, undreaded, and thy self half starv'd?
 
+[verse]
 Whom thus the Sin-born Monster answerd soon.
 To mee, who with eternal Famin pine,
 Alike is Hell, or Paradise, or Heaven,
@@ -8825,6 +9114,7 @@ There best, where most with ravin I may meet;
 Which here, though plenteous, all too little seems
 To stuff this Maw, this vast unhide-bound Corps.
 
+[verse]
 To whom th' incestuous Mother thus repli'd.
 Thou therefore on these Herbs, and Fruits, & Flours
 Feed first, on each Beast next, and Fish, and Fowle,
@@ -8834,6 +9124,7 @@ Till I in Man residing through the Race,
 His thoughts, his looks, words, actions all infect,
 And season him thy last and sweetest prey.
 
+[verse]
 This said, they both betook them several wayes,
 Both to destroy, or unimmortal make
 All kinds, and for destruction to mature
@@ -8841,6 +9132,7 @@ Sooner or later; which th' Almightie seeing,
 From his transcendent Seat the Saints among,
 To those bright Orders utterd thus his voice.
 
+[verse]
 See with what heat these Dogs of Hell advance
 To waste and havoc yonder VVorld, which I
 So fair and good created, and had still
@@ -8867,6 +9159,7 @@ Then Heav'n and Earth renewd shall be made pure
 To sanctitie that shall receive no staine:
 Till then the Curse pronounc't on both precedes.
 
+[verse]
 Hee ended, and the heav'nly Audience loud
 Sung HALLELUIA, as the sound of Seas,
 Through multitude that sung: Just are thy ways,
@@ -8947,6 +9240,7 @@ To sorrow abandond, but worse felt within,
 And in a troubl'd Sea of passion tost,
 Thus to disburd'n sought with sad complaint.
 
+[verse]
 O miserable of happie! is this the end
 Of this new glorious World, and mee so late
 The Glory of that Glory, who now becom
@@ -9073,6 +9367,7 @@ O Conscience, into what Abyss of fears
 And horrors hast thou driv'n me; out of which
 I find no way, from deep to deeper plung'd!
 
+[verse]
 Thus ADAM to himself lamented loud
 Through the still Night, now now, as ere man fell,
 Wholsom and cool, and mild, but with black Air
@@ -9096,6 +9391,7 @@ Desolate where she sate, approaching nigh,
 Soft words to his fierce passion she assay'd:
 But her with stern regard he thus repell'd.
 
+[verse]
 Out of my sight, thou Serpent, that name best
 Befits thee with him leagu'd, thy self as false
 And hateful; nothing wants, but that thy shape,
@@ -9139,12 +9435,14 @@ To a fell Adversarie, his hate or shame:
 Which infinite calamitie shall cause
 To humane life, and houshold peace confound.
 
+[verse]
 He added not, and from her turn'd, but EVE
 Not so repulst, with Tears that ceas'd not flowing,
 And tresses all disorderd, at his feet
 Fell humble, and imbracing them, besaught
 His peace, and thus proceeded in her plaint.
 
+[verse]
 Forsake me not thus, ADAM, witness Heav'n
 What love sincere, and reverence in my heart
 I beare thee, and unweeting have offended,
@@ -9169,6 +9467,7 @@ The sentence from thy head remov'd may light
 On me, sole cause to thee of all this woe,
 Mee mee onely just object of his ire.
 
+[verse]
 She ended weeping, and her lowlie plight,
 Immoveable till peace obtain'd from fault
 Acknowledg'd and deplor'd, in ADAM wraught
@@ -9180,6 +9479,7 @@ His counsel whom she had displeas'd, his aide;
 As one disarm'd, his anger all he lost,
 And thus with peaceful words uprais'd her soon.
 
+[verse]
 Unwarie, and too desirous, as before,
 So now of what thou knowst not, who desir'st
 The punishment all on thy self; alas,
@@ -9200,6 +9500,7 @@ Will prove no sudden, but a slow-pac't evill,
 A long days dying to augment our paine,
 And to our Seed (O hapless Seed!) deriv'd.
 
+[verse]
 To whom thus EVE, recovering heart, repli'd.
 ADAM, by sad experiment I know
 How little weight my words with thee can finde,
@@ -9242,6 +9543,7 @@ That shew no end but Death, and have the power,
 Of many wayes to die the shortest choosing,
 Destruction with destruction to destroy.
 
+[verse]
 She ended heer, or vehement despaire
 Broke off the rest; so much of Death her thoughts
 Had entertaind, as di'd her Cheeks with pale.
@@ -9249,6 +9551,7 @@ But ADAM with such counsel nothing sway'd,
 To better hopes his more attentive minde
 Labouring had rais'd, and thus to EVE repli'd.
 
+[verse]
 EVE, thy contempt of life and pleasure seems
 To argue in thee somthing more sublime
 And excellent then what thy minde contemnes;
@@ -9334,6 +9637,7 @@ From his displeasure; in whose look serene,
 VVhen angry most he seem'd and most severe,
 VVhat else but favor, grace, and mercie shon?
 
+[verse]
 So spake our Father penitent, nor EVE
 Felt less remorse: they forthwith to the place
 Repairing where he judg'd them prostrate fell
@@ -9343,10 +9647,12 @@ VVatering the ground, and with thir sighs the Air
 Frequenting, sent from hearts contrite, in sign
 Of sorrow unfeign'd, and humiliation meek.
 
+[verse]
 The End of the Ninth Book. 
 
 == Book X.
 
+[verse]
 Thus they in lowliest plight repentant stood
 Praying, for from the Mercie-seat above
 Prevenient Grace descending had remov'd
@@ -9369,6 +9675,7 @@ By thir great Intercessor, came in sight
 Before the Fathers Throne: Them the glad Son
 Presenting, thus to intercede began.
 
+[verse]
 See Father, what first fruits on Earth are sprung
 From thy implanted Grace in Man, these Sighs
 And Prayers, which in this Golden Censer, mixt
@@ -9393,6 +9700,7 @@ To better life shall yeeld him, where with mee
 All my redeemd may dwell in joy and bliss,
 Made one with me as I with thee am one.
 
+[verse]
 To whom the Father, without Cloud, serene.
 All thy request for Man, accepted Son,
 Obtain, all thy request was my Decree:
@@ -9421,6 +9729,7 @@ My judgments, how with Mankind I proceed,
 As how with peccant Angels late they saw;
 And in thir state, though firm, stood more confirmd.
 
+[verse]
 He ended, and the Son gave signal high
 To the bright Minister that watchd, hee blew
 His Trumpet, heard in OREB since perhaps
@@ -9434,6 +9743,7 @@ Hasted, resorting to the Summons high,
 And took thir Seats; till from his Throne supream
 Th' Almighty thus pronounced his sovran Will.
 
+[verse]
 O Sons, like one of us Man is become
 To know both Good and Evil, since his taste
 Of that defended Fruit; but let him boast
@@ -9450,6 +9760,7 @@ Forever, to remove him I decree,
 And send him from the Garden forth to Till
 The Ground whence he was taken, fitter soile.
 
+[verse]
 MICHAEL, this my behest have thou in charge,
 Take to thee from among the Cherubim
 Thy choice of flaming Warriours, least the Fiend
@@ -9478,6 +9789,7 @@ Least Paradise a receptacle prove
 To Spirits foule, and all my Trees thir prey,
 With whose stol'n Fruit Man once more to delude.
 
+[verse]
 He ceas'd; and th' Archangelic Power prepar'd
 For swift descent, with him the Cohort bright
 Of watchful Cherubim; four faces each
@@ -9494,6 +9806,7 @@ Strength added from above, new hope to spring
 Out of despaire, joy, but with fear yet linkt;
 Which thus to EVE his welcome words renewd.
 
+[verse]
 EVE, easily may Faith admit, that all
 The good which we enjoy, from Heav'n descends
 But that from us ought should ascend to Heav'n
@@ -9516,6 +9829,7 @@ EVE rightly call'd, Mother of all Mankind,
 Mother of all things living, since by thee
 Man is to live, and all things live for Man.
 
+[verse]
 To whom thus EVE with sad demeanour meek.
 Ill worthie I such title should belong
 To me transgressour, who for thee ordaind
@@ -9536,6 +9850,7 @@ Laborious, till day droop; while here we dwell,
 What can be toilsom in these pleasant Walkes?
 Here let us live, though in fall'n state, content.
 
+[verse]
 So spake, so wish'd much-humbl'd EVE, but Fate
 Subscrib'd not; Nature first gave Signs, imprest
 On Bird, Beast, Aire, Aire suddenly eclips'd
@@ -9549,6 +9864,7 @@ Direct to th' Eastern Gate was bent thir flight.
 ADAM observ'd, and with his Eye the chase
 Pursuing, not unmov'd to EVE thus spake.
 
+[verse]
 O EVE, some furder change awaits us nigh,
 Which Heav'n by these mute signs in Nature shews
 Forerunners of his purpose, or to warn
@@ -9565,6 +9881,7 @@ More orient in yon VVestern Cloud that draws
 O're the blew Firmament a radiant white,
 And slow descends, with somthing heav'nly fraught.
 
+[verse]
 He err'd not, for by this the heav'nly Bands
 Down from a Skie of Jasper lighted now
 In Paradise, and on a Hill made alt,
@@ -9584,6 +9901,7 @@ To finde where ADAM shelterd, took his way,
 Not unperceav'd of ADAM, who to EVE,
 While the great Visitant approachd, thus spake.
 
+[verse]
 EVE, now expect great tidings, which perhaps
 Of us will soon determin, or impose
 New Laws to be observ'd; for I descrie
@@ -9610,6 +9928,7 @@ Satans dire dread, and in his hand the Spear.
 ADAM bowd low, hee Kingly from his State
 Inclin'd not, but his coming thus declar'd.
 
+[verse]
 ADAM, Heav'ns high behest no Preface needs:
 Sufficient that thy Prayers are heard, and Death,
 Then due by sentence when thou didst transgress,
@@ -9623,12 +9942,14 @@ Permits not; to remove thee I am come,
 And send thee from the Garden forth to till
 The ground whence thou wast tak'n, fitter Soile.
 
+[verse]
 He added not, for ADAM at the newes
 Heart-strook with chilling gripe of sorrow stood,
 That all his senses bound; EVE, who unseen
 Yet all had heard, with audible lament
 Discover'd soon the place of her retire.
 
+[verse]
 O unexpected stroke, worse then of Death!
 Must I thus leave thee Paradise? thus leave
 Thee Native Soile, these happie Walks and Shades,
@@ -9648,6 +9969,7 @@ Into a lower World, to this obscure
 And wilde, how shall we breath in other Aire
 Less pure, accustomd to immortal Fruits?
 
+[verse]
 Whom thus the Angel interrupted milde.
 Lament not EVE, but patiently resigne
 What justly thou hast lost; nor set thy heart,
@@ -9656,10 +9978,12 @@ Thy going is not lonely, with thee goes
 Thy Husband, him to follow thou art bound;
 Where he abides, think there thy native soile.
 
+[verse]
 ADAM by this from the cold sudden damp
 Recovering, and his scatterd spirits returnd,
 To MICHAEL thus his humble words addressd.
 
+[verse]
 Celestial, whether among the Thrones, or nam'd
 Of them the Highest, for such of shape may seem
 Prince above Princes, gently hast thou tould
@@ -9699,6 +10023,7 @@ To life prolongd and promisd Race, I now
 Gladly behold though but his utmost skirts
 Of glory, and farr off his steps adore.
 
+[verse]
 To whom thus MICHAEL with regard benigne.
 ADAM, thou know'st Heav'n his, and all the Earth
 Not this Rock onely; his Omnipresence fills
@@ -9736,6 +10061,7 @@ This Hill; let EVE (for I have drencht her eyes)
 Here sleep below while thou to foresight wak'st,
 As once thou slepst, while Shee to life was formd.
 
+[verse]
 To whom thus ADAM gratefully repli'd.
 Ascend, I follow thee, safe Guide, the path
 Thou lead'st me, and to the hand of Heav'n submit,
@@ -9790,6 +10116,7 @@ Sunk down and all his Spirits became intranst:
 But him the gentle Angel by the hand
 Soon rais'd, and his attention thus recall'd.
 
+[verse]
 ADAM, now ope thine eyes, and first behold
 Th' effects which thy original crime hath wrought
 In some to spring from thee, who never touch'd
@@ -9797,6 +10124,7 @@ Th' excepted Tree, nor with the Snake conspir'd,
 Nor sinn'd thy sin, yet from that sin derive
 Corruption to bring forth more violent deeds.
 
+[verse]
 His eyes he op'nd, and beheld a field,
 Part arable and tilth, whereon were Sheaves
 New reapt, the other part sheep-walks and foulds;
@@ -9819,10 +10147,12 @@ Groand out his Soul with gushing bloud effus'd.
 Much at that sight was ADAM in his heart
 Dismai'd, and thus in haste to th' Angel cri'd.
 
+[verse]
 O Teacher, some great mischief hath befall'n
 To that meek man, who well had sacrific'd;
 Is Pietie thus and pure Devotion paid?
 
+[verse]
 T' whom MICHAEL thus, hee also mov'd, repli'd.
 These two are Brethren, ADAM, and to come
 Out of thy loyns; th' unjust the just hath slain,
@@ -9832,12 +10162,14 @@ Will be aveng'd, and th' others Faith approv'd
 Loose no reward, though here thou see him die,
 Rowling in dust and gore.  To which our Sire.
 
+[verse]
 Alas, both for the deed and for the cause!
 But have I now seen Death?  Is this the way
 I must return to native dust?  O sight
 Of terrour, foul and ugly to behold,
 Horrid to think, how horrible to feel!
 
+[verse]
 To whom thus MICHAEL.  Death thou hast seen
 In his first shape on man; but many shapes
 Of Death, and many are the wayes that lead
@@ -9870,6 +10202,7 @@ His best of Man, and gave him up to tears
 A space, till firmer thoughts restraind excess,
 And scarce recovering words his plaint renew'd.
 
+[verse]
 O miserable Mankind, to what fall
 Degraded, to what wretched state reserv'd?
 Better end heer unborn.  Why is life giv'n
@@ -9886,6 +10219,7 @@ Retaining still Divine similitude
 In part, from such deformities be free,
 And for his Makers Image sake exempt?
 
+[verse]
 Thir Makers Image, answerd MICHAEL, then
 Forsook them, when themselves they villifi'd
 To serve ungovern'd appetite, and took
@@ -9898,11 +10232,13 @@ While they pervert pure Natures healthful rules
 To loathsom sickness, worthily, since they
 Gods Image did not reverence in themselves.
 
+[verse]
 I yeild it just, said ADAM, and submit.
 But is there yet no other way, besides
 These painful passages, how we may come
 To Death, and mix with our connatural dust?
 
+[verse]
 There is, said MICHAEL, if thou well observe
 The rule of not too much, by temperance taught
 In what thou eatst and drinkst, seeking from thence
@@ -9921,16 +10257,19 @@ A melancholly damp of cold and dry
 To waigh thy spirits down, and last consume
 The Balme of Life.  To whom our Ancestor.
 
+[verse]
 Henceforth I flie not Death, nor would prolong
 Life much, bent rather how I may be quit
 Fairest and easiest of this combrous charge,
 Which I must keep till my appointed day
 Of rendring up.  MICHAEL to him repli'd.
 
+[verse]
 Nor love thy Life, nor hate; but what thou livst
 Live well, how long or short permit to Heav'n:
 And now prepare thee for another sight.
 
+[verse]
 He lookd and saw a spacious Plaine, whereon
 Were Tents of various hue; by some were herds
 Of Cattel grazing: others, whence the sound
@@ -9974,12 +10313,14 @@ And charming Symphonies attach'd the heart
 Of ADAM, soon enclin'd to admit delight,
 The bent of Nature; which he thus express'd.
 
+[verse]
 True opener of mine eyes, prime Angel blest,
 Much better seems this Vision, and more hope
 Of peaceful dayes portends, then those two past;
 Those were of hate and death, or pain much worse,
 Here Nature seems fulfilld in all her ends.
 
+[verse]
 To whom thus MICHAEL.  Judg not what is best
 By pleasure, though to Nature seeming meet,
 Created, as thou art, to nobler end
@@ -10006,6 +10347,7 @@ Of these fair Atheists, and now swim in joy,
 (Erelong to swim at larg) and laugh; for which
 The world erelong a world of tears must weepe.
 
+[verse]
 To whom thus ADAM of short joy bereft.
 O pittie and shame, that they who to live well
 Enterd so faire, should turn aside to tread
@@ -10013,11 +10355,13 @@ Paths indirect, or in the mid way faint!
 But still I see the tenor of Mans woe
 Holds on the same, from Woman to begin.
 
+[verse]
 From Mans effeminate slackness it begins,
 Said th' Angel, who should better hold his place
 By wisdome, and superiour gifts receavd.
 But now prepare thee for another Scene.
 
+[verse]
 He lookd and saw wide Territorie spred
 Before him, Towns, and rural works between,
 Cities of Men with lofty Gates and Towrs,
@@ -10064,6 +10408,7 @@ Make they but of thir Brethren, men of men?
 But who was that Just Man, whom had not Heav'n
 Rescu'd, had in his Righteousness bin lost?
 
+[verse]
 To whom thus MICHAEL; These are the product
 Of those ill-mated Marriages thou saw'st;
 Where good with bad were matcht, who of themselves
@@ -10094,6 +10439,7 @@ Exempt from Death; to shew thee what reward
 Awaits the good, the rest what punishment;
 Which now direct thine eyes and soon behold.
 
+[verse]
 He look'd, & saw the face of things quite chang'd;
 The brazen Throat of Warr had ceast to roar,
 All now was turn'd to jollitie and game,
@@ -10146,6 +10492,7 @@ Though comfortless, as when a Father mourns
 His Childern, all in view destroyd at once;
 And scarce to th' Angel utterdst thus thy plaint.
 
+[verse]
 O Visions ill foreseen! better had I
 Liv'd ignorant of future, so had borne
 My part of evil onely, each dayes lot
@@ -10224,6 +10571,7 @@ No sanctitie, if none be thither brought
 By Men who there frequent, or therein dwell.
 And now what further shall ensue, behold.
 
+[verse]
 He lookd, and saw the Ark hull on the floud,
 Which now abated, for the Clouds were fled,
 Drivn by a keen North-winde, that blowing drie
@@ -10255,6 +10603,7 @@ Betok'ning peace from God, and Cov'nant new.
 Whereat the heart of ADAM erst so sad
 Greatly rejoyc'd, and thus his joy broke forth.
 
+[verse]
 O thou that future things canst represent
 As present, Heav'nly instructer, I revive
 At this last sight, assur'd that Man shall live
@@ -10270,6 +10619,7 @@ Or serve they as a flourie verge to binde
 The fluid skirts of that same watrie Cloud,
 Least it again dissolve and showr the Earth?
 
+[verse]
 To whom th' Archangel.  Dextrously thou aim'st;
 So willingly doth God remit his Ire,
 Though late repenting him of Man deprav'd,
@@ -10346,6 +10696,7 @@ And looking down, to see the hubbub strange
 And hear the din; thus was the building left
 Ridiculous, and the work Confusion nam'd.
 
+[verse]
 Whereto thus ADAM fatherly displeas'd.
 O execrable Son so to aspire
 Above his Brethren, to himself affirming
@@ -10363,6 +10714,7 @@ Himself and his rash Armie, where thin Aire
 Above the Clouds will pine his entrails gross,
 And famish him of Breath, if not of Bread?
 
+[verse]
 To whom thus MICHAEL.  Justly thou abhorr'st
 That Son, who on the quiet state of men
 Such trouble brought, affecting to subdue
@@ -10554,6 +10906,7 @@ Till ISRAEL overcome; so call the third
 From ABRAHAM, Son of ISAAC, and from him
 His whole descent, who thus shall CANAAN win.
 
+[verse]
 Here ADAM interpos'd.  O sent from Heav'n,
 Enlightner of my darkness, gracious things
 Thou hast reveald, those chiefly which concerne
@@ -10570,6 +10923,7 @@ So many and so various Laws are giv'n;
 So many Laws argue so many sins
 Among them; how can God with such reside?
 
+[verse]
 To whom thus MICHAEL.  Doubt not but that sin
 Will reign among them, as of thee begot;
 And therefore was Law given them to evince
@@ -10658,10 +11012,12 @@ The Power of the most High; he shall ascend
 The Throne hereditarie, and bound his Reign
 With earths wide bounds, his glory with the Heav'ns.
 
+[verse]
 He ceas'd, discerning ADAM with such joy
 Surcharg'd, as had like grief bin dew'd in tears,
 Without the vent of words, which these he breathd.
 
+[verse]
 O Prophet of glad tidings, finisher
 Of utmost hope! now clear I understand
 What oft my steddiest thoughts have searcht in vain,
@@ -10674,6 +11030,7 @@ Needs must the Serpent now his capital bruise
 Expect with mortal paine: say where and when
 Thir fight, what stroke shall bruise the Victors heel.
 
+[verse]
 To whom thus MICHAEL.  Dream not of thir fight,
 As of a Duel, or the local wounds
 Of head or heel: not therefore joynes the Son
@@ -10755,10 +11112,12 @@ Whether in Heav'n or Earth, for then the Earth
 Shall all be Paradise, far happier place
 Then this of EDEN, and far happier daies.
 
+[verse]
 So spake th' Archangel MICHAEL, then paus'd,
 As at the Worlds great period; and our Sire
 Replete with joy and wonder thus repli'd.
 
+[verse]
 O goodness infinite, goodness immense!
 That all this good of evil shall produce,
 And evil turn to good; more wonderful
@@ -10776,6 +11135,7 @@ The enemies of truth; who then shall guide
 His people, who defend? will they not deale
 Wors with his followers then with him they dealt?
 
+[verse]
 Be sure they will, said th' Angel; but from Heav'n
 Hee to his own a Comforter will send,
 The promise of the Father, who shall dwell
@@ -10844,6 +11204,7 @@ New Heav'ns, new Earth, Ages of endless date
 Founded in righteousness and peace and love,
 To bring forth fruits Joy and eternal Bliss.
 
+[verse]
 He ended; and thus ADAM last reply'd.
 How soon hath thy prediction, Seer blest,
 Measur'd this transient World, the Race of time,
@@ -10867,6 +11228,7 @@ And to the faithful Death the Gate of Life;
 Taught this by his example whom I now
 Acknowledge my Redeemer ever blest.
 
+[verse]
 To whom thus also th' Angel last repli'd:
 This having learnt, thou hast attaind the summe
 Of wisdom; hope no higher, though all the Starrs
@@ -10900,11 +11262,13 @@ Both in one Faith unanimous though sad,
 With cause for evils past, yet much more cheer'd
 With meditation on the happie end.
 
+[verse]
 He ended, and they both descend the Hill;
 Descended, ADAM to the Bowre where EVE
 Lay sleeping ran before, but found her wak't;
 And thus with words not sad she him receav'd.
 
+[verse]
 Whence thou returnst, & whither wentst, I know;
 For God is also in sleep, and Dreams advise,
 Which he hath sent propitious, some great good
@@ -10920,6 +11284,7 @@ I carry hence; though all by mee is lost,
 Such favour I unworthie am voutsaft,
 By mee the Promis'd Seed shall all restore.
 
+[verse]
 So spake our Mother EVE, and ADAM heard
 VVell pleas'd, but answer'd not; for now too nigh
 Th' Archangel stood, and from the other Hill
@@ -10947,4 +11312,5 @@ Thir place of rest, and Providence thir guide:
 They hand in hand with wandring steps and slow,
 Through EDEN took thir solitarie way.
 
+[verse]
 The End. 
